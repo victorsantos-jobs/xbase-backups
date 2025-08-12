@@ -1,0 +1,29 @@
+{
+  "status": "sucesso",
+  "timestamp_inicio": "2025-08-12T09:04:09.775956",
+  "timestamp_fim": "2025-08-12T09:05:57.495207",
+  "duracao_segundos": 107.719251,
+  "parametros_busca": {
+    "porte": "porte",
+    "estado": "estado",
+    "nicho": "nicho"
+  },
+  "resultados": {
+    "total_empresas": 4,
+    "empresas_com_telefone": 4,
+    "empresas_com_email": 0,
+    "empresas_com_instagram": 0,
+    "empresas_com_whatsapp": 0
+  },
+  "arquivos_gerados": [
+    "storage/CSV/empresas_Pequena_SP_Tecnologia_20250812_090557.csv",
+    "storage/Excel/empresas_Pequena_SP_Tecnologia_20250812_090557.xlsx",
+    "storage/Outros/empresas_Pequena_SP_Tecnologia_20250812_090557.json"
+  ],
+  "armazenamento": {
+    "total_files": 6,
+    "total_size_mb": 0.01,
+    "storage_path": "storage"
+  },
+  "resumo": "Mineração concluída com 4 empresas encontradas em 107.7 segundos"
+}

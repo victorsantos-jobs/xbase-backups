@@ -1,0 +1,62 @@
+[
+  {
+    "name": "John Smith",
+    "telephone": "+1-555-0123",
+    "address": "123 Main Street, New York, NY 10001",
+    "email": "john.smith@email.com"
+  },
+  {
+    "name": "Sarah Johnson",
+    "telephone": "+1-555-0124",
+    "address": "456 Oak Avenue, Los Angeles, CA 90210",
+    "email": "sarah.johnson@email.com"
+  },
+  {
+    "name": "Michael Brown",
+    "telephone": "+1-555-0125",
+    "address": "789 Pine Road, Chicago, IL 60601",
+    "email": "michael.brown@email.com"
+  },
+  {
+    "name": "Emily Davis",
+    "telephone": "+1-555-0126",
+    "address": "321 Elm Street, Houston, TX 77001",
+    "email": "emily.davis@email.com"
+  },
+  {
+    "name": "David Wilson",
+    "telephone": "+1-555-0127",
+    "address": "654 Maple Drive, Phoenix, AZ 85001",
+    "email": "david.wilson@email.com"
+  },
+  {
+    "name": "Lisa Anderson",
+    "telephone": "+1-555-0128",
+    "address": "987 Cedar Lane, Philadelphia, PA 19101",
+    "email": "lisa.anderson@email.com"
+  },
+  {
+    "name": "Robert Taylor",
+    "telephone": "+1-555-0129",
+    "address": "147 Birch Court, San Antonio, TX 78201",
+    "email": "robert.taylor@email.com"
+  },
+  {
+    "name": "Jennifer Martinez",
+    "telephone": "+1-555-0130",
+    "address": "258 Spruce Way, San Diego, CA 92101",
+    "email": "jennifer.martinez@email.com"
+  },
+  {
+    "name": "Christopher Garcia",
+    "telephone": "+1-555-0131",
+    "address": "369 Willow Place, Dallas, TX 75201",
+    "email": "christopher.garcia@email.com"
+  },
+  {
+    "name": "Amanda Rodriguez",
+    "telephone": "+1-555-0132",
+    "address": "741 Aspen Circle, San Jose, CA 95101",
+    "email": "amanda.rodriguez@email.com"
+  }
+]

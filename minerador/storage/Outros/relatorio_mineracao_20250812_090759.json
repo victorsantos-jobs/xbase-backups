@@ -1,0 +1,29 @@
+{
+  "status": "sucesso",
+  "timestamp_inicio": "2025-08-12T09:06:01.565302",
+  "timestamp_fim": "2025-08-12T09:07:59.582090",
+  "duracao_segundos": 118.016788,
+  "parametros_busca": {
+    "porte": "porte",
+    "estado": "estado",
+    "nicho": "nicho"
+  },
+  "resultados": {
+    "total_empresas": 6,
+    "empresas_com_telefone": 6,
+    "empresas_com_email": 0,
+    "empresas_com_instagram": 0,
+    "empresas_com_whatsapp": 0
+  },
+  "arquivos_gerados": [
+    "storage/CSV/empresas_Média_RJ_Saúde_20250812_090759.csv",
+    "storage/Excel/empresas_Média_RJ_Saúde_20250812_090759.xlsx",
+    "storage/Outros/empresas_Média_RJ_Saúde_20250812_090759.json"
+  ],
+  "armazenamento": {
+    "total_files": 10,
+    "total_size_mb": 0.02,
+    "storage_path": "storage"
+  },
+  "resumo": "Mineração concluída com 6 empresas encontradas em 118.0 segundos"
+}

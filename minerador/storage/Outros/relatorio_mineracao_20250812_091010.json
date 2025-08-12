@@ -1,0 +1,29 @@
+{
+  "status": "sucesso",
+  "timestamp_inicio": "2025-08-12T09:08:03.668522",
+  "timestamp_fim": "2025-08-12T09:10:10.303646",
+  "duracao_segundos": 126.635124,
+  "parametros_busca": {
+    "porte": "porte",
+    "estado": "estado",
+    "nicho": "nicho"
+  },
+  "resultados": {
+    "total_empresas": 11,
+    "empresas_com_telefone": 11,
+    "empresas_com_email": 0,
+    "empresas_com_instagram": 0,
+    "empresas_com_whatsapp": 0
+  },
+  "arquivos_gerados": [
+    "storage/CSV/empresas_Micro_MG_Serviços_20250812_091010.csv",
+    "storage/Excel/empresas_Micro_MG_Serviços_20250812_091010.xlsx",
+    "storage/Outros/empresas_Micro_MG_Serviços_20250812_091010.json"
+  ],
+  "armazenamento": {
+    "total_files": 14,
+    "total_size_mb": 0.04,
+    "storage_path": "storage"
+  },
+  "resumo": "Mineração concluída com 11 empresas encontradas em 126.6 segundos"
+}

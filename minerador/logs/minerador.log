@@ -1,0 +1,666 @@
+2025-08-12 08:45:29,827 - minerador - INFO - Teste de log INFO
+2025-08-12 08:45:29,827 - minerador - WARNING - Teste de log WARNING
+2025-08-12 08:45:29,828 - minerador - ERROR - Teste de log ERROR
+2025-08-12 09:02:03,351 - minerador - INFO - === INICIANDO MODO AGENDADO ===
+2025-08-12 09:02:03,352 - minerador - INFO - Iniciando sistema de agendamento...
+2025-08-12 09:02:03,352 - minerador - INFO - Jobs configurados com sucesso
+2025-08-12 09:02:03,353 - minerador - INFO - Sistema de agendamento iniciado com sucesso
+2025-08-12 09:02:03,354 - minerador - INFO - Próxima execução programada para: 2025-08-12T10:02:03.352380
+2025-08-12 09:02:03,354 - minerador - INFO - Executando mineração agendada...
+2025-08-12 09:02:03,354 - minerador - INFO - Iniciando mineração agendada - 2025-08-12 09:02:03.354680
+2025-08-12 09:02:03,354 - minerador - INFO - Mineração agendada iniciada em thread separada
+2025-08-12 09:02:03,355 - minerador - INFO - Sistema agendado iniciado. Pressione Ctrl+C para parar.
+2025-08-12 09:02:03,355 - minerador - INFO - Iniciando mineração automática...
+2025-08-12 09:02:03,355 - minerador - INFO - Executando mineração para: Pequena, SP, Tecnologia
+2025-08-12 09:02:03,355 - minerador - INFO - [MINERAÇÃO] INICIADA - Porte: Pequena, Estado: SP, Nicho: Tecnologia - 2025-08-12 09:02:03
+2025-08-12 09:02:03,355 - minerador - INFO - Parâmetros validados: Pequena, SP, Tecnologia
+2025-08-12 09:02:03,356 - minerador - INFO - Iniciando processo de mineração...
+2025-08-12 09:02:03,356 - minerador - INFO - [MINERAÇÃO] INICIADA - Porte: Pequena, Estado: SP, Nicho: Tecnologia - 2025-08-12 09:02:03
+2025-08-12 09:02:03,356 - minerador - INFO - Executando busca: "Pequena" empresa "Tecnologia" "SP" site instagram whatsapp
+2025-08-12 09:02:04,596 - minerador - ERROR - Erro ao inicializar driver: [Errno 8] Exec format error: '/home/gosh/.wdm/drivers/chromedriver/linux64/138.0.7204.183/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver'
+2025-08-12 09:02:04,943 - minerador - ERROR - Erro ao inicializar driver: [Errno 8] Exec format error: '/home/gosh/.wdm/drivers/chromedriver/linux64/138.0.7204.183/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver'
+2025-08-12 09:02:05,282 - minerador - ERROR - Erro ao inicializar driver: [Errno 8] Exec format error: '/home/gosh/.wdm/drivers/chromedriver/linux64/138.0.7204.183/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver'
+2025-08-12 09:02:07,282 - minerador - INFO - Executando busca: empresa "Tecnologia" "SP" "Pequena" contato
+2025-08-12 09:02:07,679 - minerador - ERROR - Erro ao inicializar driver: [Errno 8] Exec format error: '/home/gosh/.wdm/drivers/chromedriver/linux64/138.0.7204.183/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver'
+2025-08-12 09:02:08,122 - minerador - ERROR - Erro ao inicializar driver: [Errno 8] Exec format error: '/home/gosh/.wdm/drivers/chromedriver/linux64/138.0.7204.183/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver'
+2025-08-12 09:02:08,473 - minerador - ERROR - Erro ao inicializar driver: [Errno 8] Exec format error: '/home/gosh/.wdm/drivers/chromedriver/linux64/138.0.7204.183/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver'
+2025-08-12 09:02:10,473 - minerador - INFO - Executando busca: "Tecnologia" "SP" empresa "Pequena" telefone email
+2025-08-12 09:02:10,836 - minerador - ERROR - Erro ao inicializar driver: [Errno 8] Exec format error: '/home/gosh/.wdm/drivers/chromedriver/linux64/138.0.7204.183/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver'
+2025-08-12 09:02:11,187 - minerador - ERROR - Erro ao inicializar driver: [Errno 8] Exec format error: '/home/gosh/.wdm/drivers/chromedriver/linux64/138.0.7204.183/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver'
+2025-08-12 09:02:11,585 - minerador - ERROR - Erro ao inicializar driver: [Errno 8] Exec format error: '/home/gosh/.wdm/drivers/chromedriver/linux64/138.0.7204.183/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver'
+2025-08-12 09:02:13,586 - minerador - INFO - Busca inteligente concluída: 0 resultados únicos
+2025-08-12 09:02:13,586 - minerador - WARNING - Nenhum resultado encontrado na busca
+2025-08-12 09:02:13,586 - minerador - WARNING - Nenhum resultado para salvar
+2025-08-12 09:02:13,587 - minerador - INFO - Relatório salvo: storage/Outros/relatorio_mineracao_20250812_090213.json
+2025-08-12 09:02:13,587 - minerador - INFO - [MINERAÇÃO] CONCLUÍDA - Resultados: 0 empresas, Arquivos: 0 - 2025-08-12 09:02:13
+2025-08-12 09:02:13,587 - minerador - INFO - Agente AGNO finalizado
+2025-08-12 09:02:17,587 - minerador - INFO - Executando mineração para: Média, RJ, Saúde
+2025-08-12 09:02:17,588 - minerador - INFO - [MINERAÇÃO] INICIADA - Porte: Média, Estado: RJ, Nicho: Saúde - 2025-08-12 09:02:17
+2025-08-12 09:02:17,588 - minerador - INFO - Parâmetros validados: Média, RJ, Saúde
+2025-08-12 09:02:17,588 - minerador - INFO - Iniciando processo de mineração...
+2025-08-12 09:02:17,588 - minerador - INFO - [MINERAÇÃO] INICIADA - Porte: Média, Estado: RJ, Nicho: Saúde - 2025-08-12 09:02:17
+2025-08-12 09:02:17,588 - minerador - INFO - Executando busca: "Média" empresa "Saúde" "RJ" site instagram whatsapp
+2025-08-12 09:02:18,014 - minerador - ERROR - Erro ao inicializar driver: [Errno 8] Exec format error: '/home/gosh/.wdm/drivers/chromedriver/linux64/138.0.7204.183/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver'
+2025-08-12 09:02:18,416 - minerador - ERROR - Erro ao inicializar driver: [Errno 8] Exec format error: '/home/gosh/.wdm/drivers/chromedriver/linux64/138.0.7204.183/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver'
+2025-08-12 09:02:18,795 - minerador - ERROR - Erro ao inicializar driver: [Errno 8] Exec format error: '/home/gosh/.wdm/drivers/chromedriver/linux64/138.0.7204.183/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver'
+2025-08-12 09:02:20,795 - minerador - INFO - Executando busca: empresa "Saúde" "RJ" "Média" contato
+2025-08-12 09:02:21,165 - minerador - ERROR - Erro ao inicializar driver: [Errno 8] Exec format error: '/home/gosh/.wdm/drivers/chromedriver/linux64/138.0.7204.183/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver'
+2025-08-12 09:02:21,541 - minerador - ERROR - Erro ao inicializar driver: [Errno 8] Exec format error: '/home/gosh/.wdm/drivers/chromedriver/linux64/138.0.7204.183/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver'
+2025-08-12 09:02:21,927 - minerador - ERROR - Erro ao inicializar driver: [Errno 8] Exec format error: '/home/gosh/.wdm/drivers/chromedriver/linux64/138.0.7204.183/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver'
+2025-08-12 09:02:23,927 - minerador - INFO - Executando busca: "Saúde" "RJ" empresa "Média" telefone email
+2025-08-12 09:02:24,274 - minerador - ERROR - Erro ao inicializar driver: [Errno 8] Exec format error: '/home/gosh/.wdm/drivers/chromedriver/linux64/138.0.7204.183/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver'
+2025-08-12 09:02:24,657 - minerador - ERROR - Erro ao inicializar driver: [Errno 8] Exec format error: '/home/gosh/.wdm/drivers/chromedriver/linux64/138.0.7204.183/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver'
+2025-08-12 09:02:25,022 - minerador - ERROR - Erro ao inicializar driver: [Errno 8] Exec format error: '/home/gosh/.wdm/drivers/chromedriver/linux64/138.0.7204.183/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver'
+2025-08-12 09:02:27,024 - minerador - INFO - Busca inteligente concluída: 0 resultados únicos
+2025-08-12 09:02:27,025 - minerador - WARNING - Nenhum resultado encontrado na busca
+2025-08-12 09:02:27,025 - minerador - WARNING - Nenhum resultado para salvar
+2025-08-12 09:02:27,025 - minerador - INFO - Relatório salvo: storage/Outros/relatorio_mineracao_20250812_090227.json
+2025-08-12 09:02:27,025 - minerador - INFO - [MINERAÇÃO] CONCLUÍDA - Resultados: 0 empresas, Arquivos: 0 - 2025-08-12 09:02:27
+2025-08-12 09:02:27,025 - minerador - INFO - Agente AGNO finalizado
+2025-08-12 09:02:31,026 - minerador - INFO - Executando mineração para: Micro, MG, Serviços
+2025-08-12 09:02:31,026 - minerador - INFO - [MINERAÇÃO] INICIADA - Porte: Micro, Estado: MG, Nicho: Serviços - 2025-08-12 09:02:31
+2025-08-12 09:02:31,026 - minerador - INFO - Parâmetros validados: Micro, MG, Serviços
+2025-08-12 09:02:31,026 - minerador - INFO - Iniciando processo de mineração...
+2025-08-12 09:02:31,026 - minerador - INFO - [MINERAÇÃO] INICIADA - Porte: Micro, Estado: MG, Nicho: Serviços - 2025-08-12 09:02:31
+2025-08-12 09:02:31,026 - minerador - INFO - Executando busca: "Micro" empresa "Serviços" "MG" site instagram whatsapp
+2025-08-12 09:02:31,379 - minerador - ERROR - Erro ao inicializar driver: [Errno 8] Exec format error: '/home/gosh/.wdm/drivers/chromedriver/linux64/138.0.7204.183/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver'
+2025-08-12 09:02:31,737 - minerador - ERROR - Erro ao inicializar driver: [Errno 8] Exec format error: '/home/gosh/.wdm/drivers/chromedriver/linux64/138.0.7204.183/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver'
+2025-08-12 09:02:32,087 - minerador - ERROR - Erro ao inicializar driver: [Errno 8] Exec format error: '/home/gosh/.wdm/drivers/chromedriver/linux64/138.0.7204.183/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver'
+2025-08-12 09:02:34,088 - minerador - INFO - Executando busca: empresa "Serviços" "MG" "Micro" contato
+2025-08-12 09:02:34,466 - minerador - ERROR - Erro ao inicializar driver: [Errno 8] Exec format error: '/home/gosh/.wdm/drivers/chromedriver/linux64/138.0.7204.183/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver'
+2025-08-12 09:02:34,819 - minerador - ERROR - Erro ao inicializar driver: [Errno 8] Exec format error: '/home/gosh/.wdm/drivers/chromedriver/linux64/138.0.7204.183/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver'
+2025-08-12 09:02:35,192 - minerador - ERROR - Erro ao inicializar driver: [Errno 8] Exec format error: '/home/gosh/.wdm/drivers/chromedriver/linux64/138.0.7204.183/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver'
+2025-08-12 09:02:37,192 - minerador - INFO - Executando busca: "Serviços" "MG" empresa "Micro" telefone email
+2025-08-12 09:02:37,541 - minerador - ERROR - Erro ao inicializar driver: [Errno 8] Exec format error: '/home/gosh/.wdm/drivers/chromedriver/linux64/138.0.7204.183/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver'
+2025-08-12 09:02:37,880 - minerador - ERROR - Erro ao inicializar driver: [Errno 8] Exec format error: '/home/gosh/.wdm/drivers/chromedriver/linux64/138.0.7204.183/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver'
+2025-08-12 09:02:38,242 - minerador - ERROR - Erro ao inicializar driver: [Errno 8] Exec format error: '/home/gosh/.wdm/drivers/chromedriver/linux64/138.0.7204.183/chromedriver-linux64/THIRD_PARTY_NOTICES.chromedriver'
+2025-08-12 09:02:40,242 - minerador - INFO - Busca inteligente concluída: 0 resultados únicos
+2025-08-12 09:02:40,243 - minerador - WARNING - Nenhum resultado encontrado na busca
+2025-08-12 09:02:40,243 - minerador - WARNING - Nenhum resultado para salvar
+2025-08-12 09:02:40,244 - minerador - INFO - Relatório salvo: storage/Outros/relatorio_mineracao_20250812_090240.json
+2025-08-12 09:02:40,244 - minerador - INFO - [MINERAÇÃO] CONCLUÍDA - Resultados: 0 empresas, Arquivos: 0 - 2025-08-12 09:02:40
+2025-08-12 09:02:40,244 - minerador - INFO - Agente AGNO finalizado
+2025-08-12 09:02:44,244 - minerador - INFO - Mineração automática concluída: 3 execuções
+2025-08-12 09:02:44,245 - minerador - INFO - Mineração agendada concluída em 40.9 segundos
+2025-08-12 09:02:44,245 - minerador - INFO - Resultados obtidos: 3 execuções
+2025-08-12 09:02:44,245 - minerador - INFO - Execução agendada registrada: {'tipo': 'execucao_agendada', 'status': 'sucesso', 'inicio': '2025-08-12T09:02:03.354680', 'fim': '2025-08-12T09:02:44.245115', 'duracao_segundos': 40.890435, 'resultados': 3, 'timestamp': '2025-08-12T09:02:44.245524'}
+2025-08-12 09:03:26,433 - minerador - INFO - Sinal recebido: 15. Finalizando agendador...
+2025-08-12 09:03:26,433 - minerador - INFO - Parando sistema de agendamento...
+2025-08-12 09:03:27,372 - minerador - INFO - Sistema de agendamento parado
+2025-08-12 09:03:27,372 - minerador - INFO - Parando sistema de agendamento...
+2025-08-12 09:03:27,373 - minerador - INFO - Sistema de agendamento parado
+2025-08-12 09:03:27,373 - minerador - INFO - Sistema agendado finalizado
+2025-08-12 09:04:09,773 - minerador - INFO - === INICIANDO MODO AGENDADO ===
+2025-08-12 09:04:09,774 - minerador - INFO - Iniciando sistema de agendamento...
+2025-08-12 09:04:09,774 - minerador - INFO - Jobs configurados com sucesso
+2025-08-12 09:04:09,775 - minerador - INFO - Sistema de agendamento iniciado com sucesso
+2025-08-12 09:04:09,775 - minerador - INFO - Próxima execução programada para: 2025-08-12T10:04:09.774308
+2025-08-12 09:04:09,775 - minerador - INFO - Executando mineração agendada...
+2025-08-12 09:04:09,775 - minerador - INFO - Iniciando mineração agendada - 2025-08-12 09:04:09.775501
+2025-08-12 09:04:09,775 - minerador - INFO - Mineração agendada iniciada em thread separada
+2025-08-12 09:04:09,775 - minerador - INFO - Iniciando mineração automática...
+2025-08-12 09:04:09,775 - minerador - INFO - Executando mineração para: Pequena, SP, Tecnologia
+2025-08-12 09:04:09,775 - minerador - INFO - [MINERAÇÃO] INICIADA - Porte: Pequena, Estado: SP, Nicho: Tecnologia - 2025-08-12 09:04:09
+2025-08-12 09:04:09,775 - minerador - INFO - Sistema agendado iniciado. Pressione Ctrl+C para parar.
+2025-08-12 09:04:09,776 - minerador - INFO - Parâmetros validados: Pequena, SP, Tecnologia
+2025-08-12 09:04:09,776 - minerador - INFO - Iniciando processo de mineração...
+2025-08-12 09:04:09,776 - minerador - INFO - [MINERAÇÃO] INICIADA - Porte: Pequena, Estado: SP, Nicho: Tecnologia - 2025-08-12 09:04:09
+2025-08-12 09:04:09,776 - minerador - INFO - Executando busca: "Pequena" empresa "Tecnologia" "SP" site instagram whatsapp
+2025-08-12 09:04:11,577 - minerador - INFO - Driver Chrome inicializado (Selenium Manager)
+2025-08-12 09:04:23,592 - minerador - ERROR - Erro na busca Google: Message: 
+Stacktrace:
+#0 0x5d4dc8cae2ca <unknown>
+#1 0x5d4dc8755550 <unknown>
+#2 0x5d4dc87a70f0 <unknown>
+#3 0x5d4dc87a72e1 <unknown>
+#4 0x5d4dc87f55e4 <unknown>
+#5 0x5d4dc87ccbed <unknown>
+#6 0x5d4dc87f29e6 <unknown>
+#7 0x5d4dc87cc993 <unknown>
+#8 0x5d4dc8798d6b <unknown>
+#9 0x5d4dc879a141 <unknown>
+#10 0x5d4dc8c732ab <unknown>
+#11 0x5d4dc8c770b9 <unknown>
+#12 0x5d4dc8c5a139 <unknown>
+#13 0x5d4dc8c77c68 <unknown>
+#14 0x5d4dc8c3e60f <unknown>
+#15 0x5d4dc8c9c1f8 <unknown>
+#16 0x5d4dc8c9c3d6 <unknown>
+#17 0x5d4dc8cad5e6 <unknown>
+#18 0x780d7689caa4 <unknown>
+#19 0x780d76929c3c <unknown>
+
+2025-08-12 09:04:25,123 - minerador - INFO - Busca Bing concluída: 10 resultados
+2025-08-12 09:04:31,905 - minerador - INFO - Busca LinkedIn concluída: 0 resultados
+2025-08-12 09:04:33,906 - minerador - INFO - Executando busca: empresa "Tecnologia" "SP" "Pequena" contato
+2025-08-12 09:04:45,237 - minerador - ERROR - Erro na busca Google: Message: 
+Stacktrace:
+#0 0x5d4dc8cae2ca <unknown>
+#1 0x5d4dc8755550 <unknown>
+#2 0x5d4dc87a70f0 <unknown>
+#3 0x5d4dc87a72e1 <unknown>
+#4 0x5d4dc87f55e4 <unknown>
+#5 0x5d4dc87ccbed <unknown>
+#6 0x5d4dc87f29e6 <unknown>
+#7 0x5d4dc87cc993 <unknown>
+#8 0x5d4dc8798d6b <unknown>
+#9 0x5d4dc879a141 <unknown>
+#10 0x5d4dc8c732ab <unknown>
+#11 0x5d4dc8c770b9 <unknown>
+#12 0x5d4dc8c5a139 <unknown>
+#13 0x5d4dc8c77c68 <unknown>
+#14 0x5d4dc8c3e60f <unknown>
+#15 0x5d4dc8c9c1f8 <unknown>
+#16 0x5d4dc8c9c3d6 <unknown>
+#17 0x5d4dc8cad5e6 <unknown>
+#18 0x780d7689caa4 <unknown>
+#19 0x780d76929c3c <unknown>
+
+2025-08-12 09:04:46,334 - minerador - INFO - Busca Bing concluída: 10 resultados
+2025-08-12 09:04:52,784 - minerador - INFO - Busca LinkedIn concluída: 0 resultados
+2025-08-12 09:04:54,784 - minerador - INFO - Executando busca: "Tecnologia" "SP" empresa "Pequena" telefone email
+2025-08-12 09:05:06,075 - minerador - ERROR - Erro na busca Google: Message: 
+Stacktrace:
+#0 0x5d4dc8cae2ca <unknown>
+#1 0x5d4dc8755550 <unknown>
+#2 0x5d4dc87a70f0 <unknown>
+#3 0x5d4dc87a72e1 <unknown>
+#4 0x5d4dc87f55e4 <unknown>
+#5 0x5d4dc87ccbed <unknown>
+#6 0x5d4dc87f29e6 <unknown>
+#7 0x5d4dc87cc993 <unknown>
+#8 0x5d4dc8798d6b <unknown>
+#9 0x5d4dc879a141 <unknown>
+#10 0x5d4dc8c732ab <unknown>
+#11 0x5d4dc8c770b9 <unknown>
+#12 0x5d4dc8c5a139 <unknown>
+#13 0x5d4dc8c77c68 <unknown>
+#14 0x5d4dc8c3e60f <unknown>
+#15 0x5d4dc8c9c1f8 <unknown>
+#16 0x5d4dc8c9c3d6 <unknown>
+#17 0x5d4dc8cad5e6 <unknown>
+#18 0x780d7689caa4 <unknown>
+#19 0x780d76929c3c <unknown>
+
+2025-08-12 09:05:06,837 - minerador - INFO - Busca Bing concluída: 2 resultados
+2025-08-12 09:05:12,954 - minerador - INFO - Busca LinkedIn concluída: 0 resultados
+2025-08-12 09:05:14,955 - minerador - INFO - Busca inteligente concluída: 18 resultados únicos
+2025-08-12 09:05:14,955 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=986f76d082811aa692dd7689b0f0a52f9846b0029cf348b7c8443246d40b88feJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly93d3cub25laXQuY29tLmJyLw&ntb=1
+2025-08-12 09:05:15,269 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=986f76d082811aa692dd7689b0f0a52f9846b0029cf348b7c8443246d40b88feJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly93d3cub25laXQuY29tLmJyLw&ntb=1
+2025-08-12 09:05:15,428 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=986f76d082811aa692dd7689b0f0a52f9846b0029cf348b7c8443246d40b88feJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly93d3cub25laXQuY29tLmJyLw&ntb=1: 0
+2025-08-12 09:05:15,428 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:05:17,429 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=6b7e17894b7e6bf69d5e26a542bc98063f0c27f6706eda5f7942c985df99fe76JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly9pbmNvbm5ldC5jb20uYnIv&ntb=1
+2025-08-12 09:05:17,572 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=6b7e17894b7e6bf69d5e26a542bc98063f0c27f6706eda5f7942c985df99fe76JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly9pbmNvbm5ldC5jb20uYnIv&ntb=1
+2025-08-12 09:05:17,709 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=6b7e17894b7e6bf69d5e26a542bc98063f0c27f6706eda5f7942c985df99fe76JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly9pbmNvbm5ldC5jb20uYnIv&ntb=1: 0
+2025-08-12 09:05:17,710 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:05:19,710 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=17ef4f129c3e41e71d8c7f6196122152632e3dee233f4ae6c2941f98011805c8JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly9wcmFjYWZlLmNvbS5ici8&ntb=1
+2025-08-12 09:05:19,874 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=17ef4f129c3e41e71d8c7f6196122152632e3dee233f4ae6c2941f98011805c8JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly9wcmFjYWZlLmNvbS5ici8&ntb=1
+2025-08-12 09:05:20,034 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=17ef4f129c3e41e71d8c7f6196122152632e3dee233f4ae6c2941f98011805c8JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly9wcmFjYWZlLmNvbS5ici8&ntb=1: 0
+2025-08-12 09:05:20,035 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:05:22,035 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=c4b1f5a29ce997580a64ff2849e6d5fcfa088cba92cf9993ca3dd65863d54f65JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly9qdXN0NGl0LmNvbS5ici8&ntb=1
+2025-08-12 09:05:22,204 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=c4b1f5a29ce997580a64ff2849e6d5fcfa088cba92cf9993ca3dd65863d54f65JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly9qdXN0NGl0LmNvbS5ici8&ntb=1
+2025-08-12 09:05:22,399 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=c4b1f5a29ce997580a64ff2849e6d5fcfa088cba92cf9993ca3dd65863d54f65JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly9qdXN0NGl0LmNvbS5ici8&ntb=1: 0
+2025-08-12 09:05:22,400 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:05:24,400 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=879b3f3f395edd028fd6605151561362c3428fef7d56e8f0aa09611274200b4bJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly9ici5saW5rZWRpbi5jb20vY29tcGFueS9rbGFua29maWNpYWw&ntb=1
+2025-08-12 09:05:24,566 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=879b3f3f395edd028fd6605151561362c3428fef7d56e8f0aa09611274200b4bJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly9ici5saW5rZWRpbi5jb20vY29tcGFueS9rbGFua29maWNpYWw&ntb=1
+2025-08-12 09:05:24,728 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=879b3f3f395edd028fd6605151561362c3428fef7d56e8f0aa09611274200b4bJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly9ici5saW5rZWRpbi5jb20vY29tcGFueS9rbGFua29maWNpYWw&ntb=1: 0
+2025-08-12 09:05:24,729 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:05:26,729 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=766e97e2f18ad1caaa1ed498e77afc89198326b4a868983db3b3fab7a09bd55eJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly93d3cucmJhc29sdWNvZXMuY29tLmJyLw&ntb=1
+2025-08-12 09:05:26,896 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=766e97e2f18ad1caaa1ed498e77afc89198326b4a868983db3b3fab7a09bd55eJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly93d3cucmJhc29sdWNvZXMuY29tLmJyLw&ntb=1
+2025-08-12 09:05:27,039 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=766e97e2f18ad1caaa1ed498e77afc89198326b4a868983db3b3fab7a09bd55eJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly93d3cucmJhc29sdWNvZXMuY29tLmJyLw&ntb=1: 0
+2025-08-12 09:05:27,040 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:05:29,040 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=e773ba562ee7fb3f98399abbe38a0f4fa85dcf2955bee209f961857234006f9dJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly9uZXRydy5jb20uYnIv&ntb=1
+2025-08-12 09:05:29,183 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=e773ba562ee7fb3f98399abbe38a0f4fa85dcf2955bee209f961857234006f9dJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly9uZXRydy5jb20uYnIv&ntb=1
+2025-08-12 09:05:29,321 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=e773ba562ee7fb3f98399abbe38a0f4fa85dcf2955bee209f961857234006f9dJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly9uZXRydy5jb20uYnIv&ntb=1: 0
+2025-08-12 09:05:29,321 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:05:31,322 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=6a7732c7b211d7cdacdc1aaa46d479028e175a7d7c01b06f0f1ae77002c9bd6cJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly9ybmxvZ2lzdGljYS5jb20uYnIv&ntb=1
+2025-08-12 09:05:31,525 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=6a7732c7b211d7cdacdc1aaa46d479028e175a7d7c01b06f0f1ae77002c9bd6cJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly9ybmxvZ2lzdGljYS5jb20uYnIv&ntb=1
+2025-08-12 09:05:31,726 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=6a7732c7b211d7cdacdc1aaa46d479028e175a7d7c01b06f0f1ae77002c9bd6cJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly9ybmxvZ2lzdGljYS5jb20uYnIv&ntb=1: 0
+2025-08-12 09:05:31,726 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:05:33,727 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=b9eab3d96a63dc927ab6562ab31b0ccbe713c3b19ac9ea46f49c400f41bbdfdeJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly9wYWNraXMuY29tLmJyLw&ntb=1
+2025-08-12 09:05:33,930 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=b9eab3d96a63dc927ab6562ab31b0ccbe713c3b19ac9ea46f49c400f41bbdfdeJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly9wYWNraXMuY29tLmJyLw&ntb=1
+2025-08-12 09:05:34,129 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=b9eab3d96a63dc927ab6562ab31b0ccbe713c3b19ac9ea46f49c400f41bbdfdeJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly9wYWNraXMuY29tLmJyLw&ntb=1: 0
+2025-08-12 09:05:34,129 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:05:36,130 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=e13a5e19d4b19159d30783b5a5c1b1cd129cd40b1fcfbada9ae380fada76d0e9JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly9hZ2VuY2lhbm92YS5jb20uYnIv&ntb=1
+2025-08-12 09:05:36,272 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=e13a5e19d4b19159d30783b5a5c1b1cd129cd40b1fcfbada9ae380fada76d0e9JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly9hZ2VuY2lhbm92YS5jb20uYnIv&ntb=1
+2025-08-12 09:05:36,471 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=e13a5e19d4b19159d30783b5a5c1b1cd129cd40b1fcfbada9ae380fada76d0e9JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly9hZ2VuY2lhbm92YS5jb20uYnIv&ntb=1: 0
+2025-08-12 09:05:36,472 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:05:38,472 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=5c03beca3f25fa2df7471e23f682125e53a2d246af9ac84ee83a5b4eb2f20dddJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cDovL3d3dy53ZXRlY25vbG9naWEuY29tLmJyLw&ntb=1
+2025-08-12 09:05:38,624 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=5c03beca3f25fa2df7471e23f682125e53a2d246af9ac84ee83a5b4eb2f20dddJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cDovL3d3dy53ZXRlY25vbG9naWEuY29tLmJyLw&ntb=1
+2025-08-12 09:05:38,822 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=5c03beca3f25fa2df7471e23f682125e53a2d246af9ac84ee83a5b4eb2f20dddJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cDovL3d3dy53ZXRlY25vbG9naWEuY29tLmJyLw&ntb=1: 0
+2025-08-12 09:05:38,822 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:05:40,823 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=4396a67090c10b69f03ec722c35f84184d0effe2ef090551a75684831c829600JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly93d3cudmVudHVydXMub3JnLmJyLw&ntb=1
+2025-08-12 09:05:40,971 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=4396a67090c10b69f03ec722c35f84184d0effe2ef090551a75684831c829600JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly93d3cudmVudHVydXMub3JnLmJyLw&ntb=1
+2025-08-12 09:05:41,108 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=4396a67090c10b69f03ec722c35f84184d0effe2ef090551a75684831c829600JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly93d3cudmVudHVydXMub3JnLmJyLw&ntb=1: 0
+2025-08-12 09:05:41,109 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:05:43,109 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=c4203c0a77d07a9565df6a9750e448a3cbd5b644fdcc4c321334656d868bcd72JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly9ka3RlYy5jb20uYnIv&ntb=1
+2025-08-12 09:05:43,314 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=c4203c0a77d07a9565df6a9750e448a3cbd5b644fdcc4c321334656d868bcd72JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly9ka3RlYy5jb20uYnIv&ntb=1
+2025-08-12 09:05:43,511 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=c4203c0a77d07a9565df6a9750e448a3cbd5b644fdcc4c321334656d868bcd72JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly9ka3RlYy5jb20uYnIv&ntb=1: 0
+2025-08-12 09:05:43,511 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:05:45,512 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=ae8498509b326f4e7859117499b865f263f3e15b993116fce0881a01540d5e05JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly93d3cuZ3J1cG9lbG8uY29tLw&ntb=1
+2025-08-12 09:05:45,716 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=ae8498509b326f4e7859117499b865f263f3e15b993116fce0881a01540d5e05JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly93d3cuZ3J1cG9lbG8uY29tLw&ntb=1
+2025-08-12 09:05:45,977 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=ae8498509b326f4e7859117499b865f263f3e15b993116fce0881a01540d5e05JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly93d3cuZ3J1cG9lbG8uY29tLw&ntb=1: 0
+2025-08-12 09:05:45,977 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:05:47,978 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=bbe6426f7ac225fec33b10000bf0570ea06cb28becf8fb3fa7550dfe5ddd7caeJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly9taWNyb2JsdWUuY29tLmJyLw&ntb=1
+2025-08-12 09:05:48,124 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=bbe6426f7ac225fec33b10000bf0570ea06cb28becf8fb3fa7550dfe5ddd7caeJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly9taWNyb2JsdWUuY29tLmJyLw&ntb=1
+2025-08-12 09:05:48,263 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=bbe6426f7ac225fec33b10000bf0570ea06cb28becf8fb3fa7550dfe5ddd7caeJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly9taWNyb2JsdWUuY29tLmJyLw&ntb=1: 0
+2025-08-12 09:05:48,263 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:05:50,264 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=11f29f0d07763eaf8ce1c61faa35651e69eab21a4ab37cd4c05131a1f40acc8fJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly9odWJlc3BhY29zaW50ZWxpZ2VudGVzLmNvbS5ici8&ntb=1
+2025-08-12 09:05:50,409 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=11f29f0d07763eaf8ce1c61faa35651e69eab21a4ab37cd4c05131a1f40acc8fJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly9odWJlc3BhY29zaW50ZWxpZ2VudGVzLmNvbS5ici8&ntb=1
+2025-08-12 09:05:50,556 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=11f29f0d07763eaf8ce1c61faa35651e69eab21a4ab37cd4c05131a1f40acc8fJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly9odWJlc3BhY29zaW50ZWxpZ2VudGVzLmNvbS5ici8&ntb=1: 0
+2025-08-12 09:05:50,557 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:05:52,558 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=ae9282210cc8a5a4ef14dc3f95ace9cd2f7a7e026787a8cf607d637f06a3da2cJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly9jb21wdXRlcnRpLmNvbS5ici9hbHVndWVsLXRlY25vbG9naWEtZW1wcmVzYXMtcGVxdWVuby1wb3J0ZS1zcC8&ntb=1
+2025-08-12 09:05:52,705 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=ae9282210cc8a5a4ef14dc3f95ace9cd2f7a7e026787a8cf607d637f06a3da2cJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly9jb21wdXRlcnRpLmNvbS5ici9hbHVndWVsLXRlY25vbG9naWEtZW1wcmVzYXMtcGVxdWVuby1wb3J0ZS1zcC8&ntb=1
+2025-08-12 09:05:52,903 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=ae9282210cc8a5a4ef14dc3f95ace9cd2f7a7e026787a8cf607d637f06a3da2cJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly9jb21wdXRlcnRpLmNvbS5ici9hbHVndWVsLXRlY25vbG9naWEtZW1wcmVzYXMtcGVxdWVuby1wb3J0ZS1zcC8&ntb=1: 0
+2025-08-12 09:05:52,904 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:05:54,904 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=d824332d623a290f45ea035c3ccf2c3e7c5eafd4c0a3ebb46f286e9de763a3abJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly9wY3RlY2huaWNzLmNvbS5ici8&ntb=1
+2025-08-12 09:05:55,122 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=d824332d623a290f45ea035c3ccf2c3e7c5eafd4c0a3ebb46f286e9de763a3abJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly9wY3RlY2huaWNzLmNvbS5ici8&ntb=1
+2025-08-12 09:05:55,287 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=d824332d623a290f45ea035c3ccf2c3e7c5eafd4c0a3ebb46f286e9de763a3abJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=1d19783d-8c6e-6eee-24ca-6e7b8d616f54&u=a1aHR0cHM6Ly9wY3RlY2huaWNzLmNvbS5ici8&ntb=1: 0
+2025-08-12 09:05:55,287 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:05:57,287 - minerador - INFO - Processamento concluído: 18 empresas processadas
+2025-08-12 09:05:57,288 - minerador - INFO - Empresas validadas: 4 de 18
+2025-08-12 09:05:57,288 - minerador - INFO - Mineração processada: 4 empresas válidas
+2025-08-12 09:05:57,297 - minerador - INFO - DataFrame salvo: storage/CSV/empresas_Pequena_SP_Tecnologia_20250812_090557.csv
+2025-08-12 09:05:57,494 - minerador - INFO - DataFrame salvo: storage/Excel/empresas_Pequena_SP_Tecnologia_20250812_090557.xlsx
+2025-08-12 09:05:57,495 - minerador - INFO - JSON salvo: storage/Outros/empresas_Pequena_SP_Tecnologia_20250812_090557.json
+2025-08-12 09:05:57,495 - minerador - INFO - Resultados salvos em 3 arquivos
+2025-08-12 09:05:57,495 - minerador - INFO - Relatório salvo: storage/Outros/relatorio_mineracao_20250812_090557.json
+2025-08-12 09:05:57,495 - minerador - INFO - [MINERAÇÃO] CONCLUÍDA - Resultados: 4 empresas, Arquivos: 3 - 2025-08-12 09:05:57
+2025-08-12 09:05:57,563 - minerador - INFO - Driver Chrome fechado
+2025-08-12 09:05:57,564 - minerador - INFO - Agente AGNO finalizado
+2025-08-12 09:06:01,565 - minerador - INFO - Executando mineração para: Média, RJ, Saúde
+2025-08-12 09:06:01,565 - minerador - INFO - [MINERAÇÃO] INICIADA - Porte: Média, Estado: RJ, Nicho: Saúde - 2025-08-12 09:06:01
+2025-08-12 09:06:01,565 - minerador - INFO - Parâmetros validados: Média, RJ, Saúde
+2025-08-12 09:06:01,565 - minerador - INFO - Iniciando processo de mineração...
+2025-08-12 09:06:01,565 - minerador - INFO - [MINERAÇÃO] INICIADA - Porte: Média, Estado: RJ, Nicho: Saúde - 2025-08-12 09:06:01
+2025-08-12 09:06:01,565 - minerador - INFO - Executando busca: "Média" empresa "Saúde" "RJ" site instagram whatsapp
+2025-08-12 09:06:02,438 - minerador - INFO - Driver Chrome inicializado (Selenium Manager)
+2025-08-12 09:06:14,778 - minerador - ERROR - Erro na busca Google: Message: 
+Stacktrace:
+#0 0x652d91d5a2ca <unknown>
+#1 0x652d91801550 <unknown>
+#2 0x652d918530f0 <unknown>
+#3 0x652d918532e1 <unknown>
+#4 0x652d918a15e4 <unknown>
+#5 0x652d91878bed <unknown>
+#6 0x652d9189e9e6 <unknown>
+#7 0x652d91878993 <unknown>
+#8 0x652d91844d6b <unknown>
+#9 0x652d91846141 <unknown>
+#10 0x652d91d1f2ab <unknown>
+#11 0x652d91d230b9 <unknown>
+#12 0x652d91d06139 <unknown>
+#13 0x652d91d23c68 <unknown>
+#14 0x652d91cea60f <unknown>
+#15 0x652d91d481f8 <unknown>
+#16 0x652d91d483d6 <unknown>
+#17 0x652d91d595e6 <unknown>
+#18 0x7028e7e9caa4 <unknown>
+#19 0x7028e7f29c3c <unknown>
+
+2025-08-12 09:06:15,908 - minerador - INFO - Busca Bing concluída: 10 resultados
+2025-08-12 09:06:22,485 - minerador - INFO - Busca LinkedIn concluída: 0 resultados
+2025-08-12 09:06:24,485 - minerador - INFO - Executando busca: empresa "Saúde" "RJ" "Média" contato
+2025-08-12 09:06:35,913 - minerador - ERROR - Erro na busca Google: Message: 
+Stacktrace:
+#0 0x652d91d5a2ca <unknown>
+#1 0x652d91801550 <unknown>
+#2 0x652d918530f0 <unknown>
+#3 0x652d918532e1 <unknown>
+#4 0x652d918a15e4 <unknown>
+#5 0x652d91878bed <unknown>
+#6 0x652d9189e9e6 <unknown>
+#7 0x652d91878993 <unknown>
+#8 0x652d91844d6b <unknown>
+#9 0x652d91846141 <unknown>
+#10 0x652d91d1f2ab <unknown>
+#11 0x652d91d230b9 <unknown>
+#12 0x652d91d06139 <unknown>
+#13 0x652d91d23c68 <unknown>
+#14 0x652d91cea60f <unknown>
+#15 0x652d91d481f8 <unknown>
+#16 0x652d91d483d6 <unknown>
+#17 0x652d91d595e6 <unknown>
+#18 0x7028e7e9caa4 <unknown>
+#19 0x7028e7f29c3c <unknown>
+
+2025-08-12 09:06:37,148 - minerador - INFO - Busca Bing concluída: 10 resultados
+2025-08-12 09:06:43,440 - minerador - INFO - Busca LinkedIn concluída: 0 resultados
+2025-08-12 09:06:45,441 - minerador - INFO - Executando busca: "Saúde" "RJ" empresa "Média" telefone email
+2025-08-12 09:06:56,841 - minerador - ERROR - Erro na busca Google: Message: 
+Stacktrace:
+#0 0x652d91d5a2ca <unknown>
+#1 0x652d91801550 <unknown>
+#2 0x652d918530f0 <unknown>
+#3 0x652d918532e1 <unknown>
+#4 0x652d918a15e4 <unknown>
+#5 0x652d91878bed <unknown>
+#6 0x652d9189e9e6 <unknown>
+#7 0x652d91878993 <unknown>
+#8 0x652d91844d6b <unknown>
+#9 0x652d91846141 <unknown>
+#10 0x652d91d1f2ab <unknown>
+#11 0x652d91d230b9 <unknown>
+#12 0x652d91d06139 <unknown>
+#13 0x652d91d23c68 <unknown>
+#14 0x652d91cea60f <unknown>
+#15 0x652d91d481f8 <unknown>
+#16 0x652d91d483d6 <unknown>
+#17 0x652d91d595e6 <unknown>
+#18 0x7028e7e9caa4 <unknown>
+#19 0x7028e7f29c3c <unknown>
+
+2025-08-12 09:06:57,934 - minerador - INFO - Busca Bing concluída: 10 resultados
+2025-08-12 09:07:04,035 - minerador - INFO - Busca LinkedIn concluída: 0 resultados
+2025-08-12 09:07:06,036 - minerador - INFO - Busca inteligente concluída: 23 resultados únicos
+2025-08-12 09:07:06,036 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=4096cdf1b4a43ee4fd62f37620ad9f6fb8bf9d09f639124a71c52f67c55e54a6JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9tZWRzZW5pb3JzYXVkZXJqLmNvbS5ici8&ntb=1
+2025-08-12 09:07:06,347 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=4096cdf1b4a43ee4fd62f37620ad9f6fb8bf9d09f639124a71c52f67c55e54a6JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9tZWRzZW5pb3JzYXVkZXJqLmNvbS5ici8&ntb=1
+2025-08-12 09:07:06,487 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=4096cdf1b4a43ee4fd62f37620ad9f6fb8bf9d09f639124a71c52f67c55e54a6JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9tZWRzZW5pb3JzYXVkZXJqLmNvbS5ici8&ntb=1: 0
+2025-08-12 09:07:06,487 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:07:08,488 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=9c02b2ed83c63b55d4cc292c3d620ae90ab97e5cbc7896b7aee80ab1f1f749ecJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9yaW9zYXVkZS5jb20v&ntb=1
+2025-08-12 09:07:08,651 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=9c02b2ed83c63b55d4cc292c3d620ae90ab97e5cbc7896b7aee80ab1f1f749ecJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9yaW9zYXVkZS5jb20v&ntb=1
+2025-08-12 09:07:08,818 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=9c02b2ed83c63b55d4cc292c3d620ae90ab97e5cbc7896b7aee80ab1f1f749ecJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9yaW9zYXVkZS5jb20v&ntb=1: 0
+2025-08-12 09:07:08,818 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:07:10,819 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=a96c922f80cd9358e88ad669c45c22987ce7c131ed06dab86db1c65d0f34a701JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cDovL2dydXBvZGVscGhpLmNvbS5ici8&ntb=1
+2025-08-12 09:07:10,963 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=a96c922f80cd9358e88ad669c45c22987ce7c131ed06dab86db1c65d0f34a701JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cDovL2dydXBvZGVscGhpLmNvbS5ici8&ntb=1
+2025-08-12 09:07:11,103 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=a96c922f80cd9358e88ad669c45c22987ce7c131ed06dab86db1c65d0f34a701JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cDovL2dydXBvZGVscGhpLmNvbS5ici8&ntb=1: 0
+2025-08-12 09:07:11,104 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:07:13,104 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=905e1ca8130f1906b00bee620325cb4f679724f4dd344f587ae67b5dc4d34447JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9lc3BlY2lhbGlzdGFkaWdpdGFsLmNvbS5ici8&ntb=1
+2025-08-12 09:07:13,306 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=905e1ca8130f1906b00bee620325cb4f679724f4dd344f587ae67b5dc4d34447JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9lc3BlY2lhbGlzdGFkaWdpdGFsLmNvbS5ici8&ntb=1
+2025-08-12 09:07:13,466 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=905e1ca8130f1906b00bee620325cb4f679724f4dd344f587ae67b5dc4d34447JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9lc3BlY2lhbGlzdGFkaWdpdGFsLmNvbS5ici8&ntb=1: 0
+2025-08-12 09:07:13,466 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:07:15,467 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=052596ce24865e74c6ce3a882a0528ed45f58895aada3045505e64010830db39JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9ici5saW5rZWRpbi5jb20vY29tcGFueS9ncnVwby1tYWlzLXNhdWRl&ntb=1
+2025-08-12 09:07:15,678 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=052596ce24865e74c6ce3a882a0528ed45f58895aada3045505e64010830db39JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9ici5saW5rZWRpbi5jb20vY29tcGFueS9ncnVwby1tYWlzLXNhdWRl&ntb=1
+2025-08-12 09:07:15,816 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=052596ce24865e74c6ce3a882a0528ed45f58895aada3045505e64010830db39JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9ici5saW5rZWRpbi5jb20vY29tcGFueS9ncnVwby1tYWlzLXNhdWRl&ntb=1: 0
+2025-08-12 09:07:15,816 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:07:17,816 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=847cc51bbfccb86c8395e48976b3fbbbcb7d087720470b5888d7d18cfe67a939JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly93d3cuc2F1ZGUucmouZ292LmJyL2F0ZW5jYW8tZXNwZWNpYWxpemFkYS1jb250cm9sZS1lLWF2YWxpYWNhby9wcGktZS10cmFuc2ZlcmVuY2lhcw&ntb=1
+2025-08-12 09:07:18,019 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=847cc51bbfccb86c8395e48976b3fbbbcb7d087720470b5888d7d18cfe67a939JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly93d3cuc2F1ZGUucmouZ292LmJyL2F0ZW5jYW8tZXNwZWNpYWxpemFkYS1jb250cm9sZS1lLWF2YWxpYWNhby9wcGktZS10cmFuc2ZlcmVuY2lhcw&ntb=1
+2025-08-12 09:07:18,218 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=847cc51bbfccb86c8395e48976b3fbbbcb7d087720470b5888d7d18cfe67a939JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly93d3cuc2F1ZGUucmouZ292LmJyL2F0ZW5jYW8tZXNwZWNpYWxpemFkYS1jb250cm9sZS1lLWF2YWxpYWNhby9wcGktZS10cmFuc2ZlcmVuY2lhcw&ntb=1: 0
+2025-08-12 09:07:18,219 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:07:20,219 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=080bd6a1d69ca9f86f7167d3f7feabe2575d2fba0cab4bc1d89001d3923c74e3JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9nbG9iYWxzc3QuY29tLmJyLw&ntb=1
+2025-08-12 09:07:20,356 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=080bd6a1d69ca9f86f7167d3f7feabe2575d2fba0cab4bc1d89001d3923c74e3JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9nbG9iYWxzc3QuY29tLmJyLw&ntb=1
+2025-08-12 09:07:20,553 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=080bd6a1d69ca9f86f7167d3f7feabe2575d2fba0cab4bc1d89001d3923c74e3JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9nbG9iYWxzc3QuY29tLmJyLw&ntb=1: 0
+2025-08-12 09:07:20,554 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:07:22,554 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=097d180267286d086da215feb3964a581c4bdf4c2acbdfd3acfdfd4e9a91053aJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9vZ2xvYm8uZ2xvYm8uY29tL3R1ZG8tc29icmUvZW1wcmVzYS93aGF0c2FwcC8&ntb=1
+2025-08-12 09:07:22,760 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=097d180267286d086da215feb3964a581c4bdf4c2acbdfd3acfdfd4e9a91053aJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9vZ2xvYm8uZ2xvYm8uY29tL3R1ZG8tc29icmUvZW1wcmVzYS93aGF0c2FwcC8&ntb=1
+2025-08-12 09:07:22,961 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=097d180267286d086da215feb3964a581c4bdf4c2acbdfd3acfdfd4e9a91053aJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9vZ2xvYm8uZ2xvYm8uY29tL3R1ZG8tc29icmUvZW1wcmVzYS93aGF0c2FwcC8&ntb=1: 0
+2025-08-12 09:07:22,961 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:07:24,962 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=d19348d75f219e6e3d8601b7c6b198cc8bf2af67bb7cad3fc664dab2172868d5JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9zYXVkZW1haXNzZW5pb3IuY29tLmJyLw&ntb=1
+2025-08-12 09:07:25,103 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=d19348d75f219e6e3d8601b7c6b198cc8bf2af67bb7cad3fc664dab2172868d5JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9zYXVkZW1haXNzZW5pb3IuY29tLmJyLw&ntb=1
+2025-08-12 09:07:25,238 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=d19348d75f219e6e3d8601b7c6b198cc8bf2af67bb7cad3fc664dab2172868d5JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9zYXVkZW1haXNzZW5pb3IuY29tLmJyLw&ntb=1: 0
+2025-08-12 09:07:25,239 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:07:27,239 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=044f587d38e295b91fe3bd62ff91c57d33fba51b2a10f559f52b4f35efed619dJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly93d3cucGxhbm9kZXNhdWRldW5pbWVkcmouY29tLmJyLw&ntb=1
+2025-08-12 09:07:27,403 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=044f587d38e295b91fe3bd62ff91c57d33fba51b2a10f559f52b4f35efed619dJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly93d3cucGxhbm9kZXNhdWRldW5pbWVkcmouY29tLmJyLw&ntb=1
+2025-08-12 09:07:27,542 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=044f587d38e295b91fe3bd62ff91c57d33fba51b2a10f559f52b4f35efed619dJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly93d3cucGxhbm9kZXNhdWRldW5pbWVkcmouY29tLmJyLw&ntb=1: 0
+2025-08-12 09:07:27,542 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:07:29,543 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=6abc4ed074406987e99445b77aac7c4f218217a67dc028574999a7c957bae5c1JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly93d3cuYW1hcmVzYXVkZS5jb20uYnIv&ntb=1
+2025-08-12 09:07:29,684 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=6abc4ed074406987e99445b77aac7c4f218217a67dc028574999a7c957bae5c1JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly93d3cuYW1hcmVzYXVkZS5jb20uYnIv&ntb=1
+2025-08-12 09:07:29,844 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=6abc4ed074406987e99445b77aac7c4f218217a67dc028574999a7c957bae5c1JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly93d3cuYW1hcmVzYXVkZS5jb20uYnIv&ntb=1: 0
+2025-08-12 09:07:29,844 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:07:31,845 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=1da6bbf05072379fdda3ef74a8282393b11c8d57d7648dc67f86bd3a9198ececJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9ndWlhZG9jbnBqLmNvbS5ici9yai9yaW8tZGUtamFuZWlyby9lbXByZXNhLXB1YmxpY2EtZGUtc2F1ZGUtZG8tcmlvLWRlLWphbmVpcm8tcy1hLXJpb3NhdWRlLzE5NDAyOTc1MDAwMTc0&ntb=1
+2025-08-12 09:07:31,987 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=1da6bbf05072379fdda3ef74a8282393b11c8d57d7648dc67f86bd3a9198ececJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9ndWlhZG9jbnBqLmNvbS5ici9yai9yaW8tZGUtamFuZWlyby9lbXByZXNhLXB1YmxpY2EtZGUtc2F1ZGUtZG8tcmlvLWRlLWphbmVpcm8tcy1hLXJpb3NhdWRlLzE5NDAyOTc1MDAwMTc0&ntb=1
+2025-08-12 09:07:32,127 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=1da6bbf05072379fdda3ef74a8282393b11c8d57d7648dc67f86bd3a9198ececJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9ndWlhZG9jbnBqLmNvbS5ici9yai9yaW8tZGUtamFuZWlyby9lbXByZXNhLXB1YmxpY2EtZGUtc2F1ZGUtZG8tcmlvLWRlLWphbmVpcm8tcy1hLXJpb3NhdWRlLzE5NDAyOTc1MDAwMTc0&ntb=1: 0
+2025-08-12 09:07:32,127 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:07:34,128 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=10ff3a2696aede9d59d9ca863dce197084b6f4b9936dd7e170974cb2f2fac51bJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9tc2VydnNhdWRlLmNvbS5ici8&ntb=1
+2025-08-12 09:07:34,294 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=10ff3a2696aede9d59d9ca863dce197084b6f4b9936dd7e170974cb2f2fac51bJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9tc2VydnNhdWRlLmNvbS5ici8&ntb=1
+2025-08-12 09:07:34,429 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=10ff3a2696aede9d59d9ca863dce197084b6f4b9936dd7e170974cb2f2fac51bJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9tc2VydnNhdWRlLmNvbS5ici8&ntb=1: 0
+2025-08-12 09:07:34,429 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:07:36,429 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=bded03e32efee2f0e1cf50be41492c682b428194723839d5ae1c6c8dd7fba88aJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly93d3cucGxhbm9kZXNhdWRlc3VsYW1lcmljYXJqLmNvbS5ici8&ntb=1
+2025-08-12 09:07:36,573 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=bded03e32efee2f0e1cf50be41492c682b428194723839d5ae1c6c8dd7fba88aJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly93d3cucGxhbm9kZXNhdWRlc3VsYW1lcmljYXJqLmNvbS5ici8&ntb=1
+2025-08-12 09:07:36,775 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=bded03e32efee2f0e1cf50be41492c682b428194723839d5ae1c6c8dd7fba88aJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly93d3cucGxhbm9kZXNhdWRlc3VsYW1lcmljYXJqLmNvbS5ici8&ntb=1: 0
+2025-08-12 09:07:36,776 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:07:38,776 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=be73c1366c0259fdee31638e66bcc00786d27bd0290b62d863f95267683826c4JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly93d3cuYmVuZGl0b2d1aWEuY29tLmJyL2VtcHJlc2EvYXRlbmQtamEtY2FtcG8tZ3JhbmRlLXJqLXJpby1kZS1qYW5laXJv&ntb=1
+2025-08-12 09:07:38,939 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=be73c1366c0259fdee31638e66bcc00786d27bd0290b62d863f95267683826c4JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly93d3cuYmVuZGl0b2d1aWEuY29tLmJyL2VtcHJlc2EvYXRlbmQtamEtY2FtcG8tZ3JhbmRlLXJqLXJpby1kZS1qYW5laXJv&ntb=1
+2025-08-12 09:07:39,074 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=be73c1366c0259fdee31638e66bcc00786d27bd0290b62d863f95267683826c4JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly93d3cuYmVuZGl0b2d1aWEuY29tLmJyL2VtcHJlc2EvYXRlbmQtamEtY2FtcG8tZ3JhbmRlLXJqLXJpby1kZS1qYW5laXJv&ntb=1: 0
+2025-08-12 09:07:39,074 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:07:41,075 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=d9797d193b9b364ecf2b4d41fbc21ee354c0d4f0b59c070cc4e7350d833732acJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9hc3NpbS5jb20uYnIvc2l0ZS8_YXJlYT10cmFiYWxoZS1jb25vc2Nv&ntb=1
+2025-08-12 09:07:41,215 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=d9797d193b9b364ecf2b4d41fbc21ee354c0d4f0b59c070cc4e7350d833732acJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9hc3NpbS5jb20uYnIvc2l0ZS8_YXJlYT10cmFiYWxoZS1jb25vc2Nv&ntb=1
+2025-08-12 09:07:41,354 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=d9797d193b9b364ecf2b4d41fbc21ee354c0d4f0b59c070cc4e7350d833732acJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9hc3NpbS5jb20uYnIvc2l0ZS8_YXJlYT10cmFiYWxoZS1jb25vc2Nv&ntb=1: 0
+2025-08-12 09:07:41,354 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:07:43,355 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=2e50cede4d5563db8e49340d3301acde0bee5376603daee24c2cf14b2d022c0aJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9zYXVkZS5yai5nb3YuYnIvbGljaXRhY29lcy9pbmZvcm1lcy1lLW91dHJvcy1lZGl0YWlzLzIwMjAvMDcvY29udHJhdGFjYW8tZGUtZW1wcmVzYS1lc3BlY2lhbGl6YWRhLWVtLXNlcnZpY29zLWRlLWluc3RhbGFjb2VzLWVsZXRyaWNhcy1kZS1tZWRpYS10ZW5zYW8tcGFyYS1zdWJzdGl0dWljYW8tY29tcGxldGEtZGUtc2lzdGVtYXMtZGUtcHJvZHVjYW8tZGVmZWl0dW9zby1uYXMtc3ViZXN0YWNvZXMtZGFzLXVuaWRhZGVzLWlhc2Vyai1uaXRlcm9pLWUtaWFzZXJqLW1hcmFjYW5h&ntb=1
+2025-08-12 09:07:43,497 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=2e50cede4d5563db8e49340d3301acde0bee5376603daee24c2cf14b2d022c0aJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9zYXVkZS5yai5nb3YuYnIvbGljaXRhY29lcy9pbmZvcm1lcy1lLW91dHJvcy1lZGl0YWlzLzIwMjAvMDcvY29udHJhdGFjYW8tZGUtZW1wcmVzYS1lc3BlY2lhbGl6YWRhLWVtLXNlcnZpY29zLWRlLWluc3RhbGFjb2VzLWVsZXRyaWNhcy1kZS1tZWRpYS10ZW5zYW8tcGFyYS1zdWJzdGl0dWljYW8tY29tcGxldGEtZGUtc2lzdGVtYXMtZGUtcHJvZHVjYW8tZGVmZWl0dW9zby1uYXMtc3ViZXN0YWNvZXMtZGFzLXVuaWRhZGVzLWlhc2Vyai1uaXRlcm9pLWUtaWFzZXJqLW1hcmFjYW5h&ntb=1
+2025-08-12 09:07:43,697 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=2e50cede4d5563db8e49340d3301acde0bee5376603daee24c2cf14b2d022c0aJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9zYXVkZS5yai5nb3YuYnIvbGljaXRhY29lcy9pbmZvcm1lcy1lLW91dHJvcy1lZGl0YWlzLzIwMjAvMDcvY29udHJhdGFjYW8tZGUtZW1wcmVzYS1lc3BlY2lhbGl6YWRhLWVtLXNlcnZpY29zLWRlLWluc3RhbGFjb2VzLWVsZXRyaWNhcy1kZS1tZWRpYS10ZW5zYW8tcGFyYS1zdWJzdGl0dWljYW8tY29tcGxldGEtZGUtc2lzdGVtYXMtZGUtcHJvZHVjYW8tZGVmZWl0dW9zby1uYXMtc3ViZXN0YWNvZXMtZGFzLXVuaWRhZGVzLWlhc2Vyai1uaXRlcm9pLWUtaWFzZXJqLW1hcmFjYW5h&ntb=1: 0
+2025-08-12 09:07:43,698 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:07:45,698 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=f4fa1238918930764b24d84b3441fee49f543fea5a739261c0206d2018ac2d38JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9ndWlhZmFjaWwuY29tL3NpdGUvZWNvci1lY29jYXJkaW9ncmFmaWEtbHRkYS9yaW8tZGUtamFuZWlyby9yai8yNzA1MjgxMDAwMDMwMA&ntb=1
+2025-08-12 09:07:45,863 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=f4fa1238918930764b24d84b3441fee49f543fea5a739261c0206d2018ac2d38JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9ndWlhZmFjaWwuY29tL3NpdGUvZWNvci1lY29jYXJkaW9ncmFmaWEtbHRkYS9yaW8tZGUtamFuZWlyby9yai8yNzA1MjgxMDAwMDMwMA&ntb=1
+2025-08-12 09:07:46,002 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=f4fa1238918930764b24d84b3441fee49f543fea5a739261c0206d2018ac2d38JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9ndWlhZmFjaWwuY29tL3NpdGUvZWNvci1lY29jYXJkaW9ncmFmaWEtbHRkYS9yaW8tZGUtamFuZWlyby9yai8yNzA1MjgxMDAwMDMwMA&ntb=1: 0
+2025-08-12 09:07:46,003 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:07:48,003 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=338b0f361bdd555e89e0771d4e4cc32e72783b9c673d5c72a483498ee8c44eb6JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9jbnBqLmJpei82MjE3MTI3NTAwMDE0NQ&ntb=1
+2025-08-12 09:07:48,146 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=338b0f361bdd555e89e0771d4e4cc32e72783b9c673d5c72a483498ee8c44eb6JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9jbnBqLmJpei82MjE3MTI3NTAwMDE0NQ&ntb=1
+2025-08-12 09:07:48,281 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=338b0f361bdd555e89e0771d4e4cc32e72783b9c673d5c72a483498ee8c44eb6JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9jbnBqLmJpei82MjE3MTI3NTAwMDE0NQ&ntb=1: 0
+2025-08-12 09:07:48,282 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:07:50,282 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=d43ae01507d5a82d7f11cb53ec0814d0009ed471b2948e88bdfeaa8186373f96JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly90YWJlbGFkZXBsYW5vc2Rlc2F1ZGUuY29tLmJyLw&ntb=1
+2025-08-12 09:07:50,422 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=d43ae01507d5a82d7f11cb53ec0814d0009ed471b2948e88bdfeaa8186373f96JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly90YWJlbGFkZXBsYW5vc2Rlc2F1ZGUuY29tLmJyLw&ntb=1
+2025-08-12 09:07:50,559 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=d43ae01507d5a82d7f11cb53ec0814d0009ed471b2948e88bdfeaa8186373f96JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly90YWJlbGFkZXBsYW5vc2Rlc2F1ZGUuY29tLmJyLw&ntb=1: 0
+2025-08-12 09:07:50,559 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:07:52,560 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=666fe5325212fa10e6785fc2bc3620af2102ce5bd92f66a7d28d7be32eb714cbJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly93d3cuc2FvZ29uY2Fsby5yai5nb3YuYnIvb3V2aWRvcmlhLWRhLXNhdWRlLWFtcGxpYS1jYW5haXMtZGUtYXRlbmRpbWVudG8v&ntb=1
+2025-08-12 09:07:52,727 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=666fe5325212fa10e6785fc2bc3620af2102ce5bd92f66a7d28d7be32eb714cbJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly93d3cuc2FvZ29uY2Fsby5yai5nb3YuYnIvb3V2aWRvcmlhLWRhLXNhdWRlLWFtcGxpYS1jYW5haXMtZGUtYXRlbmRpbWVudG8v&ntb=1
+2025-08-12 09:07:52,866 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=666fe5325212fa10e6785fc2bc3620af2102ce5bd92f66a7d28d7be32eb714cbJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly93d3cuc2FvZ29uY2Fsby5yai5nb3YuYnIvb3V2aWRvcmlhLWRhLXNhdWRlLWFtcGxpYS1jYW5haXMtZGUtYXRlbmRpbWVudG8v&ntb=1: 0
+2025-08-12 09:07:52,866 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:07:54,866 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=c89e39e6ea6c69522a8d175b37261197ce465f371f1b29952a45dc7227a69a35JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9jbnBqLmJpei8xMTg2NTAzMzAwMDExMA&ntb=1
+2025-08-12 09:07:55,032 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=c89e39e6ea6c69522a8d175b37261197ce465f371f1b29952a45dc7227a69a35JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9jbnBqLmJpei8xMTg2NTAzMzAwMDExMA&ntb=1
+2025-08-12 09:07:55,175 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=c89e39e6ea6c69522a8d175b37261197ce465f371f1b29952a45dc7227a69a35JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9jbnBqLmJpei8xMTg2NTAzMzAwMDExMA&ntb=1: 0
+2025-08-12 09:07:55,175 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:07:57,176 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=338bf6465ae1a85e029c99d255d32cd6f9ab27bb2f3e380bbd8656ecf6dc0691JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9zYXVkZS5yai5nb3YuYnIvcmVndWxhY2FvL2NvbXBsZXhvLXJlZ3VsYWRvci1lc3RhZHVhbC9zb2JyZS1hLXJlZ3VsYWNhbw&ntb=1
+2025-08-12 09:07:57,317 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=338bf6465ae1a85e029c99d255d32cd6f9ab27bb2f3e380bbd8656ecf6dc0691JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9zYXVkZS5yai5nb3YuYnIvcmVndWxhY2FvL2NvbXBsZXhvLXJlZ3VsYWRvci1lc3RhZHVhbC9zb2JyZS1hLXJlZ3VsYWNhbw&ntb=1
+2025-08-12 09:07:57,537 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=338bf6465ae1a85e029c99d255d32cd6f9ab27bb2f3e380bbd8656ecf6dc0691JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=13c3620a-6890-6dbd-1544-744c69ec6c76&u=a1aHR0cHM6Ly9zYXVkZS5yai5nb3YuYnIvcmVndWxhY2FvL2NvbXBsZXhvLXJlZ3VsYWRvci1lc3RhZHVhbC9zb2JyZS1hLXJlZ3VsYWNhbw&ntb=1: 0
+2025-08-12 09:07:57,537 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:07:59,538 - minerador - INFO - Processamento concluído: 23 empresas processadas
+2025-08-12 09:07:59,538 - minerador - INFO - Empresas validadas: 6 de 23
+2025-08-12 09:07:59,538 - minerador - INFO - Mineração processada: 6 empresas válidas
+2025-08-12 09:07:59,545 - minerador - INFO - DataFrame salvo: storage/CSV/empresas_Média_RJ_Saúde_20250812_090759.csv
+2025-08-12 09:07:59,580 - minerador - INFO - DataFrame salvo: storage/Excel/empresas_Média_RJ_Saúde_20250812_090759.xlsx
+2025-08-12 09:07:59,581 - minerador - INFO - JSON salvo: storage/Outros/empresas_Média_RJ_Saúde_20250812_090759.json
+2025-08-12 09:07:59,581 - minerador - INFO - Resultados salvos em 3 arquivos
+2025-08-12 09:07:59,584 - minerador - INFO - Relatório salvo: storage/Outros/relatorio_mineracao_20250812_090759.json
+2025-08-12 09:07:59,584 - minerador - INFO - [MINERAÇÃO] CONCLUÍDA - Resultados: 6 empresas, Arquivos: 3 - 2025-08-12 09:07:59
+2025-08-12 09:07:59,666 - minerador - INFO - Driver Chrome fechado
+2025-08-12 09:07:59,667 - minerador - INFO - Agente AGNO finalizado
+2025-08-12 09:08:03,668 - minerador - INFO - Executando mineração para: Micro, MG, Serviços
+2025-08-12 09:08:03,668 - minerador - INFO - [MINERAÇÃO] INICIADA - Porte: Micro, Estado: MG, Nicho: Serviços - 2025-08-12 09:08:03
+2025-08-12 09:08:03,668 - minerador - INFO - Parâmetros validados: Micro, MG, Serviços
+2025-08-12 09:08:03,669 - minerador - INFO - Iniciando processo de mineração...
+2025-08-12 09:08:03,669 - minerador - INFO - [MINERAÇÃO] INICIADA - Porte: Micro, Estado: MG, Nicho: Serviços - 2025-08-12 09:08:03
+2025-08-12 09:08:03,669 - minerador - INFO - Executando busca: "Micro" empresa "Serviços" "MG" site instagram whatsapp
+2025-08-12 09:08:04,553 - minerador - INFO - Driver Chrome inicializado (Selenium Manager)
+2025-08-12 09:08:16,447 - minerador - ERROR - Erro na busca Google: Message: 
+Stacktrace:
+#0 0x58ff841c32ca <unknown>
+#1 0x58ff83c6a550 <unknown>
+#2 0x58ff83cbc0f0 <unknown>
+#3 0x58ff83cbc2e1 <unknown>
+#4 0x58ff83d0a5e4 <unknown>
+#5 0x58ff83ce1bed <unknown>
+#6 0x58ff83d079e6 <unknown>
+#7 0x58ff83ce1993 <unknown>
+#8 0x58ff83cadd6b <unknown>
+#9 0x58ff83caf141 <unknown>
+#10 0x58ff841882ab <unknown>
+#11 0x58ff8418c0b9 <unknown>
+#12 0x58ff8416f139 <unknown>
+#13 0x58ff8418cc68 <unknown>
+#14 0x58ff8415360f <unknown>
+#15 0x58ff841b11f8 <unknown>
+#16 0x58ff841b13d6 <unknown>
+#17 0x58ff841c25e6 <unknown>
+#18 0x7329a849caa4 <unknown>
+#19 0x7329a8529c3c <unknown>
+
+2025-08-12 09:08:17,921 - minerador - INFO - Busca Bing concluída: 10 resultados
+2025-08-12 09:08:24,641 - minerador - INFO - Busca LinkedIn concluída: 0 resultados
+2025-08-12 09:08:26,642 - minerador - INFO - Executando busca: empresa "Serviços" "MG" "Micro" contato
+2025-08-12 09:08:38,132 - minerador - ERROR - Erro na busca Google: Message: 
+Stacktrace:
+#0 0x58ff841c32ca <unknown>
+#1 0x58ff83c6a550 <unknown>
+#2 0x58ff83cbc0f0 <unknown>
+#3 0x58ff83cbc2e1 <unknown>
+#4 0x58ff83d0a5e4 <unknown>
+#5 0x58ff83ce1bed <unknown>
+#6 0x58ff83d079e6 <unknown>
+#7 0x58ff83ce1993 <unknown>
+#8 0x58ff83cadd6b <unknown>
+#9 0x58ff83caf141 <unknown>
+#10 0x58ff841882ab <unknown>
+#11 0x58ff8418c0b9 <unknown>
+#12 0x58ff8416f139 <unknown>
+#13 0x58ff8418cc68 <unknown>
+#14 0x58ff8415360f <unknown>
+#15 0x58ff841b11f8 <unknown>
+#16 0x58ff841b13d6 <unknown>
+#17 0x58ff841c25e6 <unknown>
+#18 0x7329a849caa4 <unknown>
+#19 0x7329a8529c3c <unknown>
+
+2025-08-12 09:08:39,284 - minerador - INFO - Busca Bing concluída: 10 resultados
+2025-08-12 09:08:45,589 - minerador - INFO - Busca LinkedIn concluída: 0 resultados
+2025-08-12 09:08:47,589 - minerador - INFO - Executando busca: "Serviços" "MG" empresa "Micro" telefone email
+2025-08-12 09:08:58,632 - minerador - ERROR - Erro na busca Google: Message: 
+Stacktrace:
+#0 0x58ff841c32ca <unknown>
+#1 0x58ff83c6a550 <unknown>
+#2 0x58ff83cbc0f0 <unknown>
+#3 0x58ff83cbc2e1 <unknown>
+#4 0x58ff83d0a5e4 <unknown>
+#5 0x58ff83ce1bed <unknown>
+#6 0x58ff83d079e6 <unknown>
+#7 0x58ff83ce1993 <unknown>
+#8 0x58ff83cadd6b <unknown>
+#9 0x58ff83caf141 <unknown>
+#10 0x58ff841882ab <unknown>
+#11 0x58ff8418c0b9 <unknown>
+#12 0x58ff8416f139 <unknown>
+#13 0x58ff8418cc68 <unknown>
+#14 0x58ff8415360f <unknown>
+#15 0x58ff841b11f8 <unknown>
+#16 0x58ff841b13d6 <unknown>
+#17 0x58ff841c25e6 <unknown>
+#18 0x7329a849caa4 <unknown>
+#19 0x7329a8529c3c <unknown>
+
+2025-08-12 09:08:59,817 - minerador - INFO - Busca Bing concluída: 10 resultados
+2025-08-12 09:09:05,992 - minerador - INFO - Busca LinkedIn concluída: 0 resultados
+2025-08-12 09:09:07,992 - minerador - INFO - Busca inteligente concluída: 27 resultados únicos
+2025-08-12 09:09:07,992 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=385cdbb6fe9c09ab9925cd18e823b6e939ada973f4afee799b0e3633bdb27c2eJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly93d3cud2ViY29sb3JzLmNvbS5ici8&ntb=1
+2025-08-12 09:09:08,265 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=385cdbb6fe9c09ab9925cd18e823b6e939ada973f4afee799b0e3633bdb27c2eJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly93d3cud2ViY29sb3JzLmNvbS5ici8&ntb=1
+2025-08-12 09:09:08,400 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=385cdbb6fe9c09ab9925cd18e823b6e939ada973f4afee799b0e3633bdb27c2eJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly93d3cud2ViY29sb3JzLmNvbS5ici8&ntb=1: 0
+2025-08-12 09:09:08,401 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:09:10,401 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=d7160ea5085d5b1aa4adce7fcf86beb5f9e96e1fdd30f2710bc6a4c7dfb68549JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly92aXJ0dXguY29tLmJyLw&ntb=1
+2025-08-12 09:09:10,565 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=d7160ea5085d5b1aa4adce7fcf86beb5f9e96e1fdd30f2710bc6a4c7dfb68549JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly92aXJ0dXguY29tLmJyLw&ntb=1
+2025-08-12 09:09:10,700 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=d7160ea5085d5b1aa4adce7fcf86beb5f9e96e1fdd30f2710bc6a4c7dfb68549JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly92aXJ0dXguY29tLmJyLw&ntb=1: 0
+2025-08-12 09:09:10,701 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:09:12,701 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=1895c8a74854bcb16524ff6fcfc06a276d3ebbe0163a33786c71519ce4804841JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly9jbnBqLmJpei8wNzkyNTU0MTAwMDE3MA&ntb=1
+2025-08-12 09:09:12,865 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=1895c8a74854bcb16524ff6fcfc06a276d3ebbe0163a33786c71519ce4804841JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly9jbnBqLmJpei8wNzkyNTU0MTAwMDE3MA&ntb=1
+2025-08-12 09:09:13,002 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=1895c8a74854bcb16524ff6fcfc06a276d3ebbe0163a33786c71519ce4804841JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly9jbnBqLmJpei8wNzkyNTU0MTAwMDE3MA&ntb=1: 0
+2025-08-12 09:09:13,002 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:09:15,002 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=95eb79f023c0fcc9e5789cd060287f4aa1adc5d28d9ad2dfa7c09ee7f5e67791JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly9hc3Nlc2NvbnRhYmlsLmNvbS8&ntb=1
+2025-08-12 09:09:15,145 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=95eb79f023c0fcc9e5789cd060287f4aa1adc5d28d9ad2dfa7c09ee7f5e67791JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly9hc3Nlc2NvbnRhYmlsLmNvbS8&ntb=1
+2025-08-12 09:09:15,310 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=95eb79f023c0fcc9e5789cd060287f4aa1adc5d28d9ad2dfa7c09ee7f5e67791JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly9hc3Nlc2NvbnRhYmlsLmNvbS8&ntb=1: 0
+2025-08-12 09:09:15,310 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:09:17,311 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=e13685b04f2f8e5373bdfbbce2ba3d54912fc5ca71f5b043b2a79a71dbc48a98JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly9nZXN0YXVtZGlnaXRhbC5jb20uYnIv&ntb=1
+2025-08-12 09:09:17,458 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=e13685b04f2f8e5373bdfbbce2ba3d54912fc5ca71f5b043b2a79a71dbc48a98JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly9nZXN0YXVtZGlnaXRhbC5jb20uYnIv&ntb=1
+2025-08-12 09:09:17,621 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=e13685b04f2f8e5373bdfbbce2ba3d54912fc5ca71f5b043b2a79a71dbc48a98JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly9nZXN0YXVtZGlnaXRhbC5jb20uYnIv&ntb=1: 0
+2025-08-12 09:09:17,621 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:09:19,621 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=3df099642a1d6844733b6168a0d8625335aefe1858660fdc7bcce119a630d21aJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly92aXBsb2NhY2FvLmNvbS5ici8&ntb=1
+2025-08-12 09:09:19,762 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=3df099642a1d6844733b6168a0d8625335aefe1858660fdc7bcce119a630d21aJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly92aXBsb2NhY2FvLmNvbS5ici8&ntb=1
+2025-08-12 09:09:19,893 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=3df099642a1d6844733b6168a0d8625335aefe1858660fdc7bcce119a630d21aJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly92aXBsb2NhY2FvLmNvbS5ici8&ntb=1: 0
+2025-08-12 09:09:19,893 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:09:21,893 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=f7041580d597403c4d5a6dab18cec7cb3339a79605b344daa2dd260b1b735c8fJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly93d3cuYXJheGEubWcuZ292LmJyL25vdGljaWEvNjQ3MC9zYWxhLW1pbmVpcmEtZG8tZW1wcmVlbmRlZG9yLWRlLWFyYXhhLWUtYS1tYWlvci1kby1lc3RhZG8tZW0tbnVtZXJvLWRlLWF0ZW5kaW1lbnRvcw&ntb=1
+2025-08-12 09:09:22,058 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=f7041580d597403c4d5a6dab18cec7cb3339a79605b344daa2dd260b1b735c8fJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly93d3cuYXJheGEubWcuZ292LmJyL25vdGljaWEvNjQ3MC9zYWxhLW1pbmVpcmEtZG8tZW1wcmVlbmRlZG9yLWRlLWFyYXhhLWUtYS1tYWlvci1kby1lc3RhZG8tZW0tbnVtZXJvLWRlLWF0ZW5kaW1lbnRvcw&ntb=1
+2025-08-12 09:09:22,195 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=f7041580d597403c4d5a6dab18cec7cb3339a79605b344daa2dd260b1b735c8fJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly93d3cuYXJheGEubWcuZ292LmJyL25vdGljaWEvNjQ3MC9zYWxhLW1pbmVpcmEtZG8tZW1wcmVlbmRlZG9yLWRlLWFyYXhhLWUtYS1tYWlvci1kby1lc3RhZG8tZW0tbnVtZXJvLWRlLWF0ZW5kaW1lbnRvcw&ntb=1: 0
+2025-08-12 09:09:22,195 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:09:24,195 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=68702d3b57dd75f3e4377ba86565ba3305d777aedcba27c5359a15c9457c9ee1JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly93d3cuc29sdXppb25lY29udGFiaWwuY29tLmJyL2FsdGFpci1hbHZlcy8&ntb=1
+2025-08-12 09:09:24,343 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=68702d3b57dd75f3e4377ba86565ba3305d777aedcba27c5359a15c9457c9ee1JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly93d3cuc29sdXppb25lY29udGFiaWwuY29tLmJyL2FsdGFpci1hbHZlcy8&ntb=1
+2025-08-12 09:09:24,480 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=68702d3b57dd75f3e4377ba86565ba3305d777aedcba27c5359a15c9457c9ee1JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly93d3cuc29sdXppb25lY29udGFiaWwuY29tLmJyL2FsdGFpci1hbHZlcy8&ntb=1: 0
+2025-08-12 09:09:24,480 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:09:26,482 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=fe03f98f3e467e87955f97146884919fc89dd94d7b25245a04f630b0a2171449JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2xvY2FsbWljcm8v&ntb=1
+2025-08-12 09:09:26,646 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=fe03f98f3e467e87955f97146884919fc89dd94d7b25245a04f630b0a2171449JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2xvY2FsbWljcm8v&ntb=1
+2025-08-12 09:09:26,807 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=fe03f98f3e467e87955f97146884919fc89dd94d7b25245a04f630b0a2171449JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2xvY2FsbWljcm8v&ntb=1: 0
+2025-08-12 09:09:26,808 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:09:28,808 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=fa91b6a8abfa3f484225f4830d1f83adee2cf39d6f9a682b913dd1c86e3d053aJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly93d3cubWFydGVsaW5ob2Rlb3Vyb2JoLmNvbS5ici8&ntb=1
+2025-08-12 09:09:28,973 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=fa91b6a8abfa3f484225f4830d1f83adee2cf39d6f9a682b913dd1c86e3d053aJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly93d3cubWFydGVsaW5ob2Rlb3Vyb2JoLmNvbS5ici8&ntb=1
+2025-08-12 09:09:29,117 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=fa91b6a8abfa3f484225f4830d1f83adee2cf39d6f9a682b913dd1c86e3d053aJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly93d3cubWFydGVsaW5ob2Rlb3Vyb2JoLmNvbS5ici8&ntb=1: 0
+2025-08-12 09:09:29,118 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:09:31,118 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=b172ec12c797398d1f15c1c4ac951536d93f678efdf8823be42959f6510e5643JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly93d3cuZWNvbm9kYXRhLmNvbS5ici9lbXByZXNhcy9tZy9zZXJ2aWNvcy9taWNybw&ntb=1
+2025-08-12 09:09:31,259 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=b172ec12c797398d1f15c1c4ac951536d93f678efdf8823be42959f6510e5643JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly93d3cuZWNvbm9kYXRhLmNvbS5ici9lbXByZXNhcy9tZy9zZXJ2aWNvcy9taWNybw&ntb=1
+2025-08-12 09:09:31,400 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=b172ec12c797398d1f15c1c4ac951536d93f678efdf8823be42959f6510e5643JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly93d3cuZWNvbm9kYXRhLmNvbS5ici9lbXByZXNhcy9tZy9zZXJ2aWNvcy9taWNybw&ntb=1: 0
+2025-08-12 09:09:31,400 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:09:33,400 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=53fc08c62dffc333b5269724321bd726bdcf27da731fbab3c0d5d30ddffe32ddJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly9iZG1nb3JpZW50YS5iZG1nLm1nLmdvdi5ici8&ntb=1
+2025-08-12 09:09:33,576 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=53fc08c62dffc333b5269724321bd726bdcf27da731fbab3c0d5d30ddffe32ddJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly9iZG1nb3JpZW50YS5iZG1nLm1nLmdvdi5ici8&ntb=1
+2025-08-12 09:09:33,716 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=53fc08c62dffc333b5269724321bd726bdcf27da731fbab3c0d5d30ddffe32ddJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly9iZG1nb3JpZW50YS5iZG1nLm1nLmdvdi5ici8&ntb=1: 0
+2025-08-12 09:09:33,716 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:09:35,717 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=2775ab45d02a0e6e9a80ba2d532c8dd540873292657e72af37d7dbb9ccc112b7JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly9jYWRhc3Ryb2VtcHJlc2EuY29tLmJyL2Zvcm5lY2Vkb3IvbWctc2Vydmljb3MtZS1tYW51dGVuY2FvLTQ4MjU2NzEwMDAwMTAz&ntb=1
+2025-08-12 09:09:35,862 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=2775ab45d02a0e6e9a80ba2d532c8dd540873292657e72af37d7dbb9ccc112b7JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly9jYWRhc3Ryb2VtcHJlc2EuY29tLmJyL2Zvcm5lY2Vkb3IvbWctc2Vydmljb3MtZS1tYW51dGVuY2FvLTQ4MjU2NzEwMDAwMTAz&ntb=1
+2025-08-12 09:09:36,067 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=2775ab45d02a0e6e9a80ba2d532c8dd540873292657e72af37d7dbb9ccc112b7JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly9jYWRhc3Ryb2VtcHJlc2EuY29tLmJyL2Zvcm5lY2Vkb3IvbWctc2Vydmljb3MtZS1tYW51dGVuY2FvLTQ4MjU2NzEwMDAwMTAz&ntb=1: 0
+2025-08-12 09:09:36,067 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:09:38,068 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=8716473f7a3683a7ecb05461613e9d5db64d3833758b480db5e022b9803749eaJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly9mZW1pY3JvLW1nLnVlbml3ZWIuY29tLw&ntb=1
+2025-08-12 09:09:38,232 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=8716473f7a3683a7ecb05461613e9d5db64d3833758b480db5e022b9803749eaJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly9mZW1pY3JvLW1nLnVlbml3ZWIuY29tLw&ntb=1
+2025-08-12 09:09:38,368 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=8716473f7a3683a7ecb05461613e9d5db64d3833758b480db5e022b9803749eaJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly9mZW1pY3JvLW1nLnVlbml3ZWIuY29tLw&ntb=1: 0
+2025-08-12 09:09:38,369 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:09:40,369 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=2651eaf60f38d1cd2b3a13f70e66bf78517850c76826f6d76a22a05a5770b7a8JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly9wYW5pY2UuY29tLmJyLw&ntb=1
+2025-08-12 09:09:40,517 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=2651eaf60f38d1cd2b3a13f70e66bf78517850c76826f6d76a22a05a5770b7a8JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly9wYW5pY2UuY29tLmJyLw&ntb=1
+2025-08-12 09:09:40,681 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=2651eaf60f38d1cd2b3a13f70e66bf78517850c76826f6d76a22a05a5770b7a8JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly9wYW5pY2UuY29tLmJyLw&ntb=1: 0
+2025-08-12 09:09:40,682 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:09:42,682 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=baa33b07235fb5d9ea9e678ec8db201c6ff656212e3344913f1e5135f46ef4c9JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly92aWFjYW9taW5hc2dlcmFpcy5jb20uYnIv&ntb=1
+2025-08-12 09:09:42,834 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=baa33b07235fb5d9ea9e678ec8db201c6ff656212e3344913f1e5135f46ef4c9JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly92aWFjYW9taW5hc2dlcmFpcy5jb20uYnIv&ntb=1
+2025-08-12 09:09:42,974 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=baa33b07235fb5d9ea9e678ec8db201c6ff656212e3344913f1e5135f46ef4c9JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly92aWFjYW9taW5hc2dlcmFpcy5jb20uYnIv&ntb=1: 0
+2025-08-12 09:09:42,974 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:09:44,974 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=2601ad53d6a1721851c2bd8ea4e9c7664a0abd81e6b68863a2c6e6b9177bfaa6JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cDovL21pbmFzY29udGUuY29tLmJyLw&ntb=1
+2025-08-12 09:09:45,115 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=2601ad53d6a1721851c2bd8ea4e9c7664a0abd81e6b68863a2c6e6b9177bfaa6JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cDovL21pbmFzY29udGUuY29tLmJyLw&ntb=1
+2025-08-12 09:09:45,251 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=2601ad53d6a1721851c2bd8ea4e9c7664a0abd81e6b68863a2c6e6b9177bfaa6JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cDovL21pbmFzY29udGUuY29tLmJyLw&ntb=1: 0
+2025-08-12 09:09:45,252 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:09:47,252 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=f56f1a96f21de8afa963183aef16a9d4b0dc06aa9efaf621dda8f30d76e14578JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly93d3cuZW1wcmVnb3MuY29tLmJyL2VtcHJlc2FzL21pY3JvLWVtcHJlc2Evc2Vydmljb3MvbWcvcnMwL3RlYw&ntb=1
+2025-08-12 09:09:47,393 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=f56f1a96f21de8afa963183aef16a9d4b0dc06aa9efaf621dda8f30d76e14578JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly93d3cuZW1wcmVnb3MuY29tLmJyL2VtcHJlc2FzL21pY3JvLWVtcHJlc2Evc2Vydmljb3MvbWcvcnMwL3RlYw&ntb=1
+2025-08-12 09:09:47,531 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=f56f1a96f21de8afa963183aef16a9d4b0dc06aa9efaf621dda8f30d76e14578JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly93d3cuZW1wcmVnb3MuY29tLmJyL2VtcHJlc2FzL21pY3JvLWVtcHJlc2Evc2Vydmljb3MvbWcvcnMwL3RlYw&ntb=1: 0
+2025-08-12 09:09:47,531 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:09:49,532 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=140f80dcd18f9018530cfce5251e20b80d0db598e3683ebf4c015098d379f546JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly93d3cuc29sdXR1ZG8uY29tLmJyL2VtcHJlc2FzL21nL21hY2hhZG8vc2Vydmljb3MvbWljcm8tYmlvdGEtYXNzZXNzb3JpYS1zb2x1Y29lcy1hbWJpZW50YWlzLWx0ZGEtMjQwMTA4MTI&ntb=1
+2025-08-12 09:09:49,671 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=140f80dcd18f9018530cfce5251e20b80d0db598e3683ebf4c015098d379f546JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly93d3cuc29sdXR1ZG8uY29tLmJyL2VtcHJlc2FzL21nL21hY2hhZG8vc2Vydmljb3MvbWljcm8tYmlvdGEtYXNzZXNzb3JpYS1zb2x1Y29lcy1hbWJpZW50YWlzLWx0ZGEtMjQwMTA4MTI&ntb=1
+2025-08-12 09:09:49,831 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=140f80dcd18f9018530cfce5251e20b80d0db598e3683ebf4c015098d379f546JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly93d3cuc29sdXR1ZG8uY29tLmJyL2VtcHJlc2FzL21nL21hY2hhZG8vc2Vydmljb3MvbWljcm8tYmlvdGEtYXNzZXNzb3JpYS1zb2x1Y29lcy1hbWJpZW50YWlzLWx0ZGEtMjQwMTA4MTI&ntb=1: 0
+2025-08-12 09:09:49,831 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:09:51,832 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=05ce5665d40269c98e72555431273610410289d1069c258f05984ae47f6e65f5JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly9vcnNpanJjb250YWJpbGlkYWRlLmNvbS5ici8&ntb=1
+2025-08-12 09:09:51,999 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=05ce5665d40269c98e72555431273610410289d1069c258f05984ae47f6e65f5JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly9vcnNpanJjb250YWJpbGlkYWRlLmNvbS5ici8&ntb=1
+2025-08-12 09:09:52,263 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=05ce5665d40269c98e72555431273610410289d1069c258f05984ae47f6e65f5JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly9vcnNpanJjb250YWJpbGlkYWRlLmNvbS5ici8&ntb=1: 0
+2025-08-12 09:09:52,264 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:09:54,264 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=aa019bb28bdb4da6c6dd4743b941ff829eb35ed42ea4803866da0e57ff8d6681JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly9jbnBqLmJpei8xMjA3NzkyNDAwMDI1Ng&ntb=1
+2025-08-12 09:09:54,410 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=aa019bb28bdb4da6c6dd4743b941ff829eb35ed42ea4803866da0e57ff8d6681JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly9jbnBqLmJpei8xMjA3NzkyNDAwMDI1Ng&ntb=1
+2025-08-12 09:09:54,545 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=aa019bb28bdb4da6c6dd4743b941ff829eb35ed42ea4803866da0e57ff8d6681JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly9jbnBqLmJpei8xMjA3NzkyNDAwMDI1Ng&ntb=1: 0
+2025-08-12 09:09:54,545 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:09:56,546 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=9b0a411bc76d06af437a5cc33027134a251780e6be12e18e0aef3e8ec2d18a5dJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly9jYWRhc3Ryb2VtcHJlc2EuY29tLmJyL2Zvcm5lY2Vkb3IvdmEteC1jb25zdWx0b3JpYS1zZXJ2aWNvcy1lLXJlcHJlc2VudGFjb2VzLWx0ZGEtMDgzMTYyMDQwMDAxNDg&ntb=1
+2025-08-12 09:09:56,689 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=9b0a411bc76d06af437a5cc33027134a251780e6be12e18e0aef3e8ec2d18a5dJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly9jYWRhc3Ryb2VtcHJlc2EuY29tLmJyL2Zvcm5lY2Vkb3IvdmEteC1jb25zdWx0b3JpYS1zZXJ2aWNvcy1lLXJlcHJlc2VudGFjb2VzLWx0ZGEtMDgzMTYyMDQwMDAxNDg&ntb=1
+2025-08-12 09:09:56,824 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=9b0a411bc76d06af437a5cc33027134a251780e6be12e18e0aef3e8ec2d18a5dJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly9jYWRhc3Ryb2VtcHJlc2EuY29tLmJyL2Zvcm5lY2Vkb3IvdmEteC1jb25zdWx0b3JpYS1zZXJ2aWNvcy1lLXJlcHJlc2VudGFjb2VzLWx0ZGEtMDgzMTYyMDQwMDAxNDg&ntb=1: 0
+2025-08-12 09:09:56,824 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:09:58,824 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=bd797731dced99a63f4b94374c888b055a00e531e9cb32091d86d7e018635f16JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly9jbnBqLmJpei83MTQ4ODI5MDAwMDEwMg&ntb=1
+2025-08-12 09:09:58,973 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=bd797731dced99a63f4b94374c888b055a00e531e9cb32091d86d7e018635f16JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly9jbnBqLmJpei83MTQ4ODI5MDAwMDEwMg&ntb=1
+2025-08-12 09:09:59,114 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=bd797731dced99a63f4b94374c888b055a00e531e9cb32091d86d7e018635f16JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly9jbnBqLmJpei83MTQ4ODI5MDAwMDEwMg&ntb=1: 0
+2025-08-12 09:09:59,115 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:10:01,115 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=67932f5e330d380bb54ce8a024688cc61b361c15253dadceead0e924f2d8c785JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly93d3cuaW5mb2ludmVzdC5jb20uYnIvY29uc3VsdGEtZW1wcmVzYS8yNTA4MTc3NDAwMDExNS1jb21tdW5pY2FyZS1zZXJ2aWNvcy1pbnRlZ3JhZG9zLWx0ZGE&ntb=1
+2025-08-12 09:10:01,264 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=67932f5e330d380bb54ce8a024688cc61b361c15253dadceead0e924f2d8c785JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly93d3cuaW5mb2ludmVzdC5jb20uYnIvY29uc3VsdGEtZW1wcmVzYS8yNTA4MTc3NDAwMDExNS1jb21tdW5pY2FyZS1zZXJ2aWNvcy1pbnRlZ3JhZG9zLWx0ZGE&ntb=1
+2025-08-12 09:10:01,401 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=67932f5e330d380bb54ce8a024688cc61b361c15253dadceead0e924f2d8c785JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly93d3cuaW5mb2ludmVzdC5jb20uYnIvY29uc3VsdGEtZW1wcmVzYS8yNTA4MTc3NDAwMDExNS1jb21tdW5pY2FyZS1zZXJ2aWNvcy1pbnRlZ3JhZG9zLWx0ZGE&ntb=1: 0
+2025-08-12 09:10:01,402 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:10:03,402 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=161164d0d1c5f533b8d5553f3a7c1b235a6949390a560b6121cade571510fd0dJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly93d3cuZWNvbm9kYXRhLmNvbS5ici9jb25zdWx0YS1lbXByZXNhLzU3MjM2Nzc0MDAwMTMzLW94aWdlbmlvLWFzc2Vzc29yaWEtZS1nZXN0YW8tbHRkYQ&ntb=1
+2025-08-12 09:10:03,552 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=161164d0d1c5f533b8d5553f3a7c1b235a6949390a560b6121cade571510fd0dJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly93d3cuZWNvbm9kYXRhLmNvbS5ici9jb25zdWx0YS1lbXByZXNhLzU3MjM2Nzc0MDAwMTMzLW94aWdlbmlvLWFzc2Vzc29yaWEtZS1nZXN0YW8tbHRkYQ&ntb=1
+2025-08-12 09:10:03,690 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=161164d0d1c5f533b8d5553f3a7c1b235a6949390a560b6121cade571510fd0dJmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly93d3cuZWNvbm9kYXRhLmNvbS5ici9jb25zdWx0YS1lbXByZXNhLzU3MjM2Nzc0MDAwMTMzLW94aWdlbmlvLWFzc2Vzc29yaWEtZS1nZXN0YW8tbHRkYQ&ntb=1: 0
+2025-08-12 09:10:03,691 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:10:05,691 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=0805275669a4b06512d48fc593acaea0c6374a3f0ea87cfc5382856b906afa43JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly9jYWRhc3Ryb2VtcHJlc2EuY29tLmJyL2Zvcm5lY2Vkb3Iva2Fpby1sei1zZXJ2aWNvcy1hZG1pbmlzdHJhdGl2b3MtMzM1ODQ3NDQwMDAxNTA&ntb=1
+2025-08-12 09:10:05,838 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=0805275669a4b06512d48fc593acaea0c6374a3f0ea87cfc5382856b906afa43JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly9jYWRhc3Ryb2VtcHJlc2EuY29tLmJyL2Zvcm5lY2Vkb3Iva2Fpby1sei1zZXJ2aWNvcy1hZG1pbmlzdHJhdGl2b3MtMzM1ODQ3NDQwMDAxNTA&ntb=1
+2025-08-12 09:10:05,983 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=0805275669a4b06512d48fc593acaea0c6374a3f0ea87cfc5382856b906afa43JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly9jYWRhc3Ryb2VtcHJlc2EuY29tLmJyL2Zvcm5lY2Vkb3Iva2Fpby1sei1zZXJ2aWNvcy1hZG1pbmlzdHJhdGl2b3MtMzM1ODQ3NDQwMDAxNTA&ntb=1: 0
+2025-08-12 09:10:05,984 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:10:07,984 - minerador - INFO - Processando: https://www.bing.com/ck/a?!&&p=152cad2b4cce4aa85fb3851b63c891c252624cb962eb6171dfc47b0ea068f356JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly9kZXNlbnZvbHZlamYucGpmLm1nLmdvdi5ici9zbWUuaHRtbA&ntb=1
+2025-08-12 09:10:08,126 - minerador - INFO - Informações extraídas de: https://www.bing.com/ck/a?!&&p=152cad2b4cce4aa85fb3851b63c891c252624cb962eb6171dfc47b0ea068f356JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly9kZXNlbnZvbHZlamYucGpmLm1nLmdvdi5ici9zbWUuaHRtbA&ntb=1
+2025-08-12 09:10:08,264 - minerador - INFO - Arquivos encontrados em https://www.bing.com/ck/a?!&&p=152cad2b4cce4aa85fb3851b63c891c252624cb962eb6171dfc47b0ea068f356JmltdHM9MTc1NDk1NjgwMA&ptn=3&ver=2&hsh=4&fclid=00527afe-7d5b-63f1-0495-6cb87c096280&u=a1aHR0cHM6Ly9kZXNlbnZvbHZlamYucGpmLm1nLmdvdi5ici9zbWUuaHRtbA&ntb=1: 0
+2025-08-12 09:10:08,264 - minerador - INFO - Download concluído: 0 arquivos baixados
+2025-08-12 09:10:10,265 - minerador - INFO - Processamento concluído: 27 empresas processadas
+2025-08-12 09:10:10,265 - minerador - INFO - Empresas validadas: 11 de 27
+2025-08-12 09:10:10,266 - minerador - INFO - Mineração processada: 11 empresas válidas
+2025-08-12 09:10:10,271 - minerador - INFO - DataFrame salvo: storage/CSV/empresas_Micro_MG_Serviços_20250812_091010.csv
+2025-08-12 09:10:10,301 - minerador - INFO - DataFrame salvo: storage/Excel/empresas_Micro_MG_Serviços_20250812_091010.xlsx
+2025-08-12 09:10:10,303 - minerador - INFO - JSON salvo: storage/Outros/empresas_Micro_MG_Serviços_20250812_091010.json
+2025-08-12 09:10:10,303 - minerador - INFO - Resultados salvos em 3 arquivos
+2025-08-12 09:10:10,304 - minerador - INFO - Relatório salvo: storage/Outros/relatorio_mineracao_20250812_091010.json
+2025-08-12 09:10:10,304 - minerador - INFO - [MINERAÇÃO] CONCLUÍDA - Resultados: 11 empresas, Arquivos: 3 - 2025-08-12 09:10:10
+2025-08-12 09:10:10,387 - minerador - INFO - Driver Chrome fechado
+2025-08-12 09:10:10,388 - minerador - INFO - Agente AGNO finalizado
+2025-08-12 09:10:14,388 - minerador - INFO - Mineração automática concluída: 3 execuções
+2025-08-12 09:10:14,389 - minerador - INFO - Mineração agendada concluída em 364.6 segundos
+2025-08-12 09:10:14,389 - minerador - INFO - Resultados obtidos: 3 execuções
+2025-08-12 09:10:14,390 - minerador - INFO - Execução agendada registrada: {'tipo': 'execucao_agendada', 'status': 'sucesso', 'inicio': '2025-08-12T09:04:09.775501', 'fim': '2025-08-12T09:10:14.389077', 'duracao_segundos': 364.613576, 'resultados': 3, 'timestamp': '2025-08-12T09:10:14.389861'}

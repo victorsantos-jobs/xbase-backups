@@ -1,0 +1,27 @@
+[Unit]
+Description=Agente Minerador - Sistema de Mineração de Dados
+After=network.target
+
+[Service]
+Type=simple
+User=gosh
+WorkingDirectory=/home/gosh/Desktop/minerador
+Environment=PATH=/home/gosh/Desktop/minerador/venv/bin
+ExecStart=/home/gosh/Desktop/minerador/venv/bin/python /home/gosh/Desktop/minerador/main.py
+ExecReload=/bin/kill -HUP $MAINPID
+Restart=always
+RestartSec=10
+
+# Configurações de segurança
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/home/gosh/Desktop/minerador/storage /home/gosh/Desktop/minerador/logs
+
+# Configurações de recursos
+LimitNOFILE=65536
+LimitNPROC=4096
+
+[Install]
+WantedBy=multi-user.target

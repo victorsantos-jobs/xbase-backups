@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-contacts-uploader",
+  "version": "1.0.0",
+  "description": "Node.js script to upload contacts to Supabase",
+  "main": "upload_contacts.js",
+  "scripts": {
+    "start": "node upload_contacts.js",
+    "upload": "node upload_contacts.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0",
+    "dotenv": "^16.3.1"
+  },
+  "keywords": [
+    "supabase",
+    "contacts",
+    "upload",
+    "database",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "MIT"
+}

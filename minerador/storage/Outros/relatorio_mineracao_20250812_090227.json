@@ -1,0 +1,25 @@
+{
+  "status": "sucesso",
+  "timestamp_inicio": "2025-08-12T09:02:17.588091",
+  "timestamp_fim": "2025-08-12T09:02:27.025141",
+  "duracao_segundos": 9.43705,
+  "parametros_busca": {
+    "porte": "porte",
+    "estado": "estado",
+    "nicho": "nicho"
+  },
+  "resultados": {
+    "total_empresas": 0,
+    "empresas_com_telefone": 0,
+    "empresas_com_email": 0,
+    "empresas_com_instagram": 0,
+    "empresas_com_whatsapp": 0
+  },
+  "arquivos_gerados": [],
+  "armazenamento": {
+    "total_files": 1,
+    "total_size_mb": 0.0,
+    "storage_path": "storage"
+  },
+  "resumo": "Mineração concluída com 0 empresas encontradas em 9.4 segundos"
+}
